@@ -239,7 +239,7 @@ function renderEventList(events) {
                  data-lat="${event.location.lat}" 
                  data-lng="${event.location.lng}">
                 <div class="flex items-center gap-4 mb-2">
-                    <div class="w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center text-gray-400 text-xl font-bold">Logo</div>
+                    <div class="w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center text-2xl">🍕</div>
                     <div>
                         <h3 class="font-bold text-lg">${event.name}</h3>
                         <p class="text-gray-600 text-sm">${event.short_description || ''}</p>
@@ -252,8 +252,7 @@ function renderEventList(events) {
                             <span class="bg-gray-100 text-gray-500 text-xs px-2 py-1 rounded">${tag}</span>
                         `).join('')}
                     </div>
-                    <a href="${event.link}" target="_blank" class="text-blue-500 hover:underline text-sm block mb-2">Visit Website</a>
-                    <button class="w-full px-3 py-2 bg-blue-600 text-white rounded-lg text-base font-semibold hover:bg-blue-700 transition-colors">Add To Journey</button>
+                    <a href="${event.link}" target="_blank" class="w-full px-3 py-2 bg-blue-600 text-white rounded-lg text-base font-semibold hover:bg-blue-700 transition-colors text-center block">Visit Website</a>
                 </div>
             </div>
         `;
@@ -286,7 +285,7 @@ function renderEventList(events) {
                 const popupContent = document.getElementById('popup-content');
                 popupContent.innerHTML = `
                     <div class="flex items-center gap-4 mb-4">
-                        <div class="w-16 h-16 bg-gray-200 rounded-full flex items-center justify-center text-gray-400 text-2xl font-bold">Logo</div>
+                        <div class="w-16 h-16 bg-gray-200 rounded-full flex items-center justify-center text-3xl">🍕</div>
                         <div>
                             <h3 class="font-bold text-xl mb-1">${event.name}</h3>
                             <p class="text-gray-600 text-sm mb-1">${event.short_description || ''}</p>
@@ -299,8 +298,7 @@ function renderEventList(events) {
                         </div>
                     </div>
                     <div class="flex flex-col gap-2">
-                        <a href="${event.link}" target="_blank" class="text-blue-500 hover:underline text-sm">Visit Website</a>
-                        <button class="mt-2 px-4 py-2 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-colors">Add To Journey</button>
+                        <a href="${event.link}" target="_blank" class="w-full px-4 py-2 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-colors text-center">Visit Website</a>
                     </div>
                 `;
                 
@@ -350,12 +348,9 @@ function addEventMarkers(events) {
                 if (marker.options.isOngoing) hasOngoing = true;
                 if (marker.options.daysToEvent < minDays) minDays = marker.options.daysToEvent;
             });
-            const clusterColor = hasOngoing
-                ? '#10B981'  // Use emerald for ongoing events
-                : getEventColor(minDays);
             const pulsateClass = hasOngoing ? 'pulsating-marker' : '';
             return L.divIcon({
-                html: `<div style="background:${clusterColor}" class="text-white rounded-full w-8 h-8 flex items-center justify-center font-bold ${pulsateClass}">${cluster.getChildCount()}</div>`,
+                html: `<div class="text-2xl ${pulsateClass} flex items-center gap-1"><span>🍕</span><span class="text-sm font-bold">${cluster.getChildCount()}</span></div>`,
                 className: 'custom-cluster',
                 iconSize: L.point(32, 32)
             });
@@ -373,33 +368,25 @@ function addEventMarkers(events) {
         eventDate.setHours(0, 0, 0, 0);
         const daysToEvent = Math.round((eventDate - now) / (1000 * 60 * 60 * 24));
         const ongoing = isEventOngoing(event.date);
-        const markerColor = ongoing ? '#10B981' : getEventColor(daysToEvent);
-        const marker = L.circleMarker([event.location.lat, event.location.lng], {
-            radius: ongoing ? 12 : 8,
-            fillColor: markerColor,
-            color: ongoing ? '#10B981' : markerColor,
-            weight: ongoing ? 4 : 2,
-            opacity: 1,
-            fillOpacity: 0.85,
+        
+        const marker = L.marker([event.location.lat, event.location.lng], {
+            icon: L.divIcon({
+                html: `<div class="text-2xl ${ongoing ? 'pulsating-marker' : ''}">🍕</div>`,
+                className: 'custom-marker',
+                iconSize: L.point(32, 32)
+            }),
             isOngoing: ongoing,
             daysToEvent: daysToEvent,
-            eventId: event.id // Add event ID to marker for filtering
+            eventId: event.id
         });
-        if (ongoing) {
-            marker.on('add', function() {
-                const svg = marker._path;
-                if (svg) {
-                    svg.classList.add('pulsating-marker');
-                }
-            });
-        }
+
         marker.on('click', function() {
             const popupContent = document.getElementById('popup-content');
             const options = { month: 'long', day: 'numeric' };
             const formattedDate = eventDate.toLocaleDateString(undefined, options);
             popupContent.innerHTML = `
                 <div class="flex items-center gap-4 mb-4">
-                    <div class="w-16 h-16 bg-gray-200 rounded-full flex items-center justify-center text-gray-400 text-2xl font-bold">Logo</div>
+                    <div class="w-16 h-16 bg-gray-200 rounded-full flex items-center justify-center text-3xl">🍕</div>
                     <div>
                         <h3 class="font-bold text-xl mb-1">${event.name}</h3>
                         <p class="text-gray-600 text-sm mb-1">${event.short_description || ''}</p>
@@ -412,8 +399,7 @@ function addEventMarkers(events) {
                     </div>
                 </div>
                 <div class="flex flex-col gap-2">
-                    <a href="${event.link}" target="_blank" class="text-blue-500 hover:underline text-sm">Visit Website</a>
-                    <button class="mt-2 px-4 py-2 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-colors">Add To Journey</button>
+                    <a href="${event.link}" target="_blank" class="w-full px-4 py-2 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-colors text-center">Visit Website</a>
                 </div>
             `;
             const popup = document.getElementById('event-popup');
@@ -421,21 +407,21 @@ function addEventMarkers(events) {
             popup.classList.remove('opacity-0');
             popup.classList.remove('pointer-events-none');
         });
-        marker.on('mouseover', function() {
-            this.setStyle({
-                fillColor: ongoing ? '#047857' : markerColor,
-                fillOpacity: 1
-            });
-        });
-        marker.on('mouseout', function() {
-            this.setStyle({
-                fillColor: ongoing ? '#10B981' : markerColor,
-                fillOpacity: 0.85
-            });
-        });
+
         markerLayerGroup.addLayer(marker);
     });
     map.addLayer(markerLayerGroup);
+}
+
+// Function to update statistics
+function updateStatistics(events) {
+    // Update total events
+    const totalEvents = events.length;
+    document.getElementById('total-events').textContent = totalEvents;
+
+    // Calculate unique countries
+    const uniqueCountries = new Set(events.map(event => event.location.country));
+    document.getElementById('total-countries').textContent = uniqueCountries.size;
 }
 
 // Function to update both list and map based on search
@@ -475,6 +461,9 @@ function updateSearchResults(searchTerm) {
         map.removeLayer(markerLayerGroup);
     }
     addEventMarkers(searchResults);
+    
+    // Update statistics
+    updateStatistics(searchResults);
     
     // Fit map bounds to show all visible markers
     if (searchResults.length > 0) {
@@ -623,6 +612,8 @@ function getEventColor(daysToEvent) {
 loadEvents().then(events => {
     if (events.length > 0) {
         addEventMarkers(events);
+        // Update statistics with all events
+        updateStatistics(events);
         // Fit map bounds to show all markers
         const bounds = L.latLngBounds(events.map(event => [event.location.lat, event.location.lng]));
         map.fitBounds(bounds);

@@ -1,75 +1,66 @@
-# Journey to DevConnect
+# Bitcoin Pizza Map
 
-<p align="center">
-  <img src="icons/logo.png" alt="Journey to DevConnect Logo" width="120" height="120" />
-</p>
-
-A Progressive Web App (PWA) that helps you discover and track blockchain events around the world.
+Discover and track blockchain events around the world with an interactive, mobile-friendly map.
 
 ## Features
 
-- Interactive world map showing blockchain events
-- Event clustering for better visualization
-- Custom floating window for event details
-- Offline support through PWA
-- Mobile-friendly design
-- Installable on devices
+- 🌍 Interactive world map with event clustering
+- 🍕 Fun, pizza-themed event markers
+- 📋 List view and map view toggle
+- 🔍 Search and filter events
+- 📱 Mobile-friendly, responsive design
+- ⚡ Progressive Web App (PWA) with offline support
 
 ## Tech Stack
 
-- HTML5
-- Tailwind CSS
+- HTML5 + Tailwind CSS
 - JavaScript (Vanilla)
-- Leaflet.js for maps
-- PWA capabilities
+- Leaflet.js (maps & clustering)
+- PWA (manifest, service worker)
 
-## Setup
+## Project Structure
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/jtdapp.git
-cd jtdapp
+```
+bitcoinpizzamap/
+├── data/              # Event data (JSON)
+├── icons/             # App and PWA icons
+├── scripts/           # Main JS logic
+├── index.html         # Main HTML file
+├── manifest.json      # PWA manifest
+├── sw.js              # Service worker
+├── LICENSE            # License file
+├── .gitignore         # Git ignore rules
 ```
 
-2. Serve the project:
-   - Using Python:
+## Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/0xlazar/bitcoinpizzamap.git
+   cd bitcoinpizzamap
+   ```
+
+2. **Serve the project locally:**
+   - With Python:
      ```bash
-     # Python 3
      python -m http.server 8000
      ```
-   - Using Node.js:
+   - With Node.js:
      ```bash
      npx serve
      ```
 
-3. Open your browser and navigate to:
-   - `http://localhost:8000` (if using Python)
-   - `http://localhost:3000` (if using Node.js)
-
-## Development
-
-The project structure is simple:
-```
-jtdapp/
-├── data/
-│   └── events.json    # Event data
-├── icons/            # PWA icons
-├── scripts/
-│   └── main.js       # Main application logic
-├── index.html        # Main HTML file
-├── manifest.json     # PWA manifest
-├── sw.js            # Service worker
-└── CHANGELOG.md     # Project changelog
-```
+3. **Open your browser:**
+   - Visit `http://localhost:8000` (Python) or `http://localhost:3000` (Node.js)
 
 ## Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+MIT
+
+---
+
+Enjoy the journey! 🍕🌍 
