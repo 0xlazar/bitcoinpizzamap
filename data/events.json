@@ -1,604 +1,7144 @@
 {
   "events": [
     {
-      "id": 1,
-      "name": "Code Africa Conference",
-      "date": "2025-05-19",
+      "id": "1",
+      "name": "Global Pizza Party Toronto",
+      "date": "2025-05-22",
       "location": {
-        "lat": -1.286389,
-        "lng": 36.817223,
-        "city": "Nairobi",
-        "country": "Kenya"
+        "city": "Toronto",
+        "country": "Canada Ontario",
+        "lat": 43.6618592,
+        "lng": -79.4021772
       },
-      "link": "https://codeafrica.io",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/2025-global-pizza-party-toronto-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 2,
-      "name": "ETHVietnam 2025",
-      "date": "2025-05-24",
+      "id": "2",
+      "name": "Global Pizza Party Florence",
+      "date": "2025-05-22",
       "location": {
-        "lat": 10.7764,
-        "lng": 106.7025,
-        "city": "HCMC",
-        "country": "Vietnam"
+        "city": "Florence",
+        "country": "Italy",
+        "lat": 43.7697955,
+        "lng": 11.2556404
       },
-      "link": "https://eth-vietnam.com",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/a-iperitivo-x-global-pizza-party",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 3,
-      "name": "ETHDublin 2025",
-      "date": "2025-05-23",
+      "id": "3",
+      "name": "Global Pizza Party Beirut",
+      "date": "2025-05-22",
       "location": {
-        "lat": 53.344104,
-        "lng": -6.267494,
-        "city": "Dublin",
-        "country": "Ireland"
+        "city": "Beirut",
+        "country": "Lebanon",
+        "lat": 33.8892265,
+        "lng": 35.5025585
       },
-      "link": "https://lu.ma/hkl5jcre",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/beirut-global-pizza-party-2025",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 4,
-      "name": "ETHBratislava",
-      "date": "2025-05-23",
+      "id": "4",
+      "name": "Global Pizza Party Berlin",
+      "date": "2025-05-22",
       "location": {
-        "lat": 48.1486,
-        "lng": 17.1077,
-        "city": "Bratislava",
-        "country": "Slovakia"
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.510885,
+        "lng": 13.3989367
       },
-      "link": "https://ethbratislava.com",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/berlin-bitcoin-pizza-party-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 5,
-      "name": "Edge Esmeralda",
-      "date": "2025-05-24",
+      "id": "5",
+      "name": "Global Pizza Party Luxembourg",
+      "date": "2025-05-22",
       "location": {
-        "lat": 38.6106,
-        "lng": -122.8697,
-        "city": "Healdsburg",
-        "country": "United States"
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "lat": 49.6112768,
+        "lng": 6.129799
       },
-      "link": "https://edgeesmeralda.com",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/bitcoin-pizza-day",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 6,
-      "name": "ETHPrague",
-      "date": "2025-05-27",
+      "id": "6",
+      "name": "Global Pizza Party Montreal",
+      "date": "2025-05-22",
       "location": {
-        "lat": 50.0874,
-        "lng": 14.4212,
-        "city": "Prague",
-        "country": "Czech Republic"
+        "city": "Montreal",
+        "country": "Canada Quebec",
+        "lat": 45.462929,
+        "lng": -73.8321293
       },
-      "link": "https://ethprague.com/",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/bitcoin-pizza-day-2025-in-montral",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 7,
-      "name": "ETHGlobal Prague",
-      "date": "2025-05-30",
+      "id": "7",
+      "name": "Global Pizza Party Merida",
+      "date": "2025-05-22",
       "location": {
-        "lat": 50.0874,
-        "lng": 14.4212,
-        "city": "Prague",
-        "country": "Czech Republic"
+        "city": "Merida",
+        "country": "Mexico",
+        "lat": 20.9670759,
+        "lng": -89.6237402
       },
-      "link": "https://ethglobal.com/events/prague",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/bitcoin-pizza-day-2025-mrida",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 8,
-      "name": "Pragma Prague",
-      "date": "2025-05-29",
+      "id": "8",
+      "name": "Global Pizza Party Almaty",
+      "date": "2025-05-22",
       "location": {
-        "lat": 50.0874,
-        "lng": 14.4212,
-        "city": "Prague",
-        "country": "Czech Republic"
+        "city": "Almaty",
+        "country": "Kazakhstan",
+        "lat": 43.2363924,
+        "lng": 76.9457275
       },
-      "link": "https://ethglobal.com/events/pragma-prague",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/bitcoin-pizza-day-almaty",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 9,
-      "name": "ETH Belgrade",
-      "date": "2025-06-03",
+      "id": "11",
+      "name": "Global Pizza Party Addis Ababa",
+      "date": "2025-05-22",
       "location": {
-        "lat": 44.7866,
-        "lng": 20.4489,
-        "city": "Belgrade",
-        "country": "Serbia"
+        "city": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.0358287,
+        "lng": 38.7524127
       },
-      "link": "https://ethbelgrade.rs/",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/bitcoin-pizza-day-party-addis-ababa",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 10,
-      "name": "ETHMilan",
-      "date": "2025-06-24",
+      "id": "13",
+      "name": "Global Pizza Party Port Harcourt",
+      "date": "2025-05-22",
       "location": {
-        "lat": 45.4642,
-        "lng": 9.1900,
+        "city": "Port Harcourt",
+        "country": "Nigeria",
+        "lat": 4.7676576,
+        "lng": 7.0188527
+      },
+      "event_link": "https://app.unlock-protocol.com/event/bitcoin-pizza-day-ph-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Global Pizza Party Pachuca",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Pachuca",
+        "country": "Mexico",
+        "lat": 20.1165413,
+        "lng": -98.7413535
+      },
+      "event_link": "https://app.unlock-protocol.com/event/blobal-pizza-party-pachuca",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Global Pizza Party Cluj",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cluj",
+        "country": "Romania",
+        "lat": 46.769379,
+        "lng": 23.5899542
+      },
+      "event_link": "https://app.unlock-protocol.com/event/eth-cluj-x-pizza-dao-global-pizza-party",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Global Pizza Party Francistown",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Francistown",
+        "country": "Botswana",
+        "lat": -21.16636,
+        "lng": 27.502515
+      },
+      "event_link": "https://app.unlock-protocol.com/event/francistown-pizza-party",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Global Pizza Party Yenagoa",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Yenagoa",
+        "country": "Nigeria",
+        "lat": 4.9334651,
+        "lng": 6.2747786
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-bitcoin-pizza-day-bayelsa",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Global Pizza Party Benin City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Benin City",
+        "country": "Nigeria",
+        "lat": 6.3330586,
+        "lng": 5.6221058
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-bitcoin-pizza-day-edo",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Global Pizza Party Kosice",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kosice",
+        "country": "Slovakia",
+        "lat": 48.7172272,
+        "lng": 21.2496774
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-day-koice",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Global Pizza Party Ulaanbaatar",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.9184676,
+        "lng": 106.9177016
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-day-ulaanbaatar-mongolia",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Global Pizza Party Cayman Islands",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cayman Islands",
+        "country": "Cayman Islands",
+        "lat": 19.7031822,
+        "lng": -79.9174627
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-2025-cayman-islands-20",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Global Pizza Party Edmonton",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Edmonton",
+        "country": "Canada Alberta",
+        "lat": 53.5762892,
+        "lng": -112.982025
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-2025-edmonton",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Global Pizza Party Kumamoto",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kumamoto",
+        "country": "Japan",
+        "lat": 32.6450475,
+        "lng": 130.6341345
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-2025-kumamoto-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Global Pizza Party Milan",
+      "date": "2025-05-22",
+      "location": {
         "city": "Milan",
-        "country": "Italy"
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346
       },
-      "link": "https://ethmilan.xyz",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-2025-milano",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 11,
-      "name": "Ethereum Brasil",
-      "date": "2025-06-09",
+      "id": "33",
+      "name": "Global Pizza Party Quetzaltenango",
+      "date": "2025-05-22",
       "location": {
-        "lat": -23.5505,
-        "lng": -46.6333,
-        "city": "São Paulo",
-        "country": "Brazil"
+        "city": "Quetzaltenango",
+        "country": "Guatemala",
+        "lat": 14.8464612,
+        "lng": -91.5194208
       },
-      "link": "https://ethereumbrasil.com/",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-2025-xela-quetzaltenango ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 12,
-      "name": "Offscript",
-      "date": "2025-06-11",
+      "id": "34",
+      "name": "Global Pizza Party Lagos",
+      "date": "2025-05-22",
       "location": {
-        "lat": 20.9139,
-        "lng": -100.7486,
-        "city": "San Miguel de Allende",
-        "country": "Mexico"
-      },
-      "link": "https://offscript.web3creatives.com",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 13,
-      "name": "ProtocolBerg",
-      "date": "2025-06-12",
-      "location": {
-        "lat": 52.520008,
-        "lng": 13.404954,
-        "city": "Berlin",
-        "country": "Germany"
-      },
-      "link": "https://protocol.berlin",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 14,
-      "name": "ETHKyiv",
-      "date": "2025-06-13",
-      "location": {
-        "lat": 50.4501,
-        "lng": 30.5234,
-        "city": "Kyiv",
-        "country": "Ukraine"
-      },
-      "link": "https://ethkyiv.com",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 15,
-      "name": "DappCon",
-      "date": "2025-06-16",
-      "location": {
-        "lat": 52.520008,
-        "lng": 13.404954,
-        "city": "Berlin",
-        "country": "Germany"
-      },
-      "link": "https://dappcon.io",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 16,
-      "name": "Permissionless IV",
-      "date": "2025-06-24",
-      "location": {
-        "lat": 40.7128,
-        "lng": -73.9442,
-        "city": "Brooklyn, NYC",
-        "country": "United States"
-      },
-      "link": "https://blockworks.co/event/permissionless-iv",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 17,
-      "name": "ETHCluj",
-      "date": "2025-06-26",
-      "location": {
-        "lat": 46.7712,
-        "lng": 23.5886,
-        "city": "Cluj-Napoca",
-        "country": "Romania"
-      },
-      "link": "https://ethcluj.org",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 18,
-      "name": "EthCC",
-      "date": "2025-06-30",
-      "location": {
-        "lat": 43.5528,
-        "lng": 7.0174,
-        "city": "Cannes",
-        "country": "France"
-      },
-      "link": "https://ethcc.io",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 19,
-      "name": "EthCCweek",
-      "date": "2025-07-01",
-      "location": {
-        "lat": 43.5528,
-        "lng": 7.0174,
-        "city": "Cannes",
-        "country": "France"
-      },
-      "link": "https://ethcc.io/week",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 20,
-      "name": "Pragma Cannes",
-      "date": "2025-07-03",
-      "location": {
-        "lat": 43.5528,
-        "lng": 7.0174,
-        "city": "Cannes",
-        "country": "France"
-      },
-      "link": "https://ethglobal.com/events/pragma-cannes",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 21,
-      "name": "ETHGlobal Cannes",
-      "date": "2025-07-04",
-      "location": {
-        "lat": 43.5528,
-        "lng": 7.0174,
-        "city": "Cannes",
-        "country": "France"
-      },
-      "link": "https://ethglobal.com/events/cannes",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 22,
-      "name": "Pragma New York",
-      "date": "2025-08-14",
-      "location": {
-        "lat": 40.7128,
-        "lng": -74.0060,
-        "city": "New York, NYC",
-        "country": "United States"
-      },
-      "link": "https://ethglobal.com/events/pragma-newyork",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 23,
-      "name": "NapulETH",
-      "date": "2025-07-16",
-      "location": {
-        "lat": 40.8518,
-        "lng": 14.2681,
-        "city": "Naples",
-        "country": "Italy"
-      },
-      "link": "https://napuleth.org/",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 24,
-      "name": "SBC (The Science of Blockchain Conference)",
-      "date": "2025-08-04",
-      "location": {
-        "lat": 37.8716,
-        "lng": -122.2728,
-        "city": "Berkeley",
-        "country": "United States"
-      },
-      "link": "https://sbc-conference.org/",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 25,
-      "name": "Frontiers 2025",
-      "date": "2025-08-01",
-      "location": {
-        "lat": 37.7749,
-        "lng": -122.4194,
-        "city": "San Francisco",
-        "country": "United States"
-      },
-      "link": "https://frontiers.paradigm.xyz/",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 26,
-      "name": "ETH Latam",
-      "date": "2025-11-08",
-      "location": {
-        "lat": -23.5505,
-        "lng": -46.6333,
-        "city": "São Paulo",
-        "country": "Brazil"
-      },
-      "link": "https://ethlatam.com",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 27,
-      "name": "ETHGlobal New York",
-      "date": "2025-08-15",
-      "location": {
-        "lat": 40.7128,
-        "lng": -74.0060,
-        "city": "New York, NYC",
-        "country": "United States"
-      },
-      "link": "https://ethglobal.com/events/newyork",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 28,
-      "name": "Web3 Lagos Conference",
-      "date": "2025-08-28",
-      "location": {
-        "lat": 6.5244,
-        "lng": 3.3792,
         "city": "Lagos",
-        "country": "Nigeria"
+        "country": "Nigeria",
+        "lat": 6.4550575,
+        "lng": 3.3941795
       },
-      "link": "https://event.web3bridge.com",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 29,
-      "name": "EthAccra",
-      "date": "2025-09-03",
+      "id": "36",
+      "name": "Global Pizza Party Copenhagen",
+      "date": "2025-05-22",
       "location": {
-        "lat": 5.6037,
-        "lng": -0.1870,
-        "city": "Accra",
-        "country": "Ghana"
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "lat": 55.6867243,
+        "lng": 12.5700724
       },
-      "link": "https://ethaccra.xyz",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-34",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 30,
-      "name": "ETHWarsaw",
-      "date": "2025-09-04",
+      "id": "38",
+      "name": "Global Pizza Party Prague",
+      "date": "2025-05-22",
       "location": {
-        "lat": 52.237049,
-        "lng": 21.017532,
-        "city": "Warsaw",
-        "country": "Poland"
-      },
-      "link": "https://ethwarsaw.dev",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 31,
-      "name": "Ethsafari",
-      "date": "2025-09-07",
-      "location": {
-        "lat": -1.286389,
-        "lng": 36.817223,
-        "city": "Nairobi",
-        "country": "Kenya"
-      },
-      "link": null,
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 32,
-      "name": "Boston Blockchain Week",
-      "date": "2025-09-08",
-      "location": {
-        "lat": 42.2529,
-        "lng": -71.0023,
-        "city": "Quincy, Massachusetts",
-        "country": "United States"
-      },
-      "link": "https://bostonblockchainweek.com/",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 33,
-      "name": "ETH Boston",
-      "date": "2025-09-09",
-      "location": {
-        "lat": 42.3601,
-        "lng": -71.0589,
-        "city": "Boston",
-        "country": "United States"
-      },
-      "link": "https://bostonblockchainweek.com/",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 34,
-      "name": "ETHTokyo",
-      "date": "2025-09-12",
-      "location": {
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "city": "Tokyo",
-        "country": "Japan"
-      },
-      "link": "https://lu.ma/eth-tokyo",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 35,
-      "name": "ETHSofia",
-      "date": "2025-09-23",
-      "location": {
-        "lat": 42.6977,
-        "lng": 23.3219,
-        "city": "Sofia",
-        "country": "Bulgaria"
-      },
-      "link": "https://ethsofia.com",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 36,
-      "name": "Pragma New Delhi",
-      "date": "2025-09-25",
-      "location": {
-        "lat": 28.6139,
-        "lng": 77.2090,
-        "city": "New Delhi",
-        "country": "India"
-      },
-      "link": "https://ethglobal.com/events/pragma-newdelhi",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 37,
-      "name": "ETHGlobal New Delhi",
-      "date": "2025-09-26",
-      "location": {
-        "lat": 28.6139,
-        "lng": 77.2090,
-        "city": "New Delhi",
-        "country": "India"
-      },
-      "link": "https://ethglobal.com/events/newdelhi",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
-    },
-    {
-      "id": 38,
-      "name": "ProtoLayers Conference",
-      "date": "2025-10-11",
-      "location": {
-        "lat": 50.0874,
-        "lng": 14.4212,
         "city": "Prague",
-        "country": "Czech Republic"
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535
       },
-      "link": "https://lu.ma/protolayers",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-5th-bitcoin-pizza-day-prague",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 39,
-      "name": "Encode London 2025",
-      "date": "2025-10-24",
+      "id": "39",
+      "name": "Global Pizza Party Abeokuta",
+      "date": "2025-05-22",
       "location": {
-        "lat": 51.5074,
-        "lng": 0.1278,
+        "city": "Abeokuta",
+        "country": "Nigeria",
+        "lat": 7.161,
+        "lng": 3.348
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-abeokuta",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Global Pizza Party Abia",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Abia",
+        "country": "Nigeria",
+        "lat": 5.4540953,
+        "lng": 7.5153071
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-abia-city-74",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Global Pizza Party Abidjan",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-abidjan",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Global Pizza Party Accra",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Accra",
+        "country": "Ghana",
+        "lat": 5.5571096,
+        "lng": -0.2012376
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-accra",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "44",
+      "name": "Global Pizza Party Agartala",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Agartala",
+        "country": "India",
+        "lat": 23.8312377,
+        "lng": 91.2823821
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-agartala",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "45",
+      "name": "Global Pizza Party Agra",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Agra",
+        "country": "India",
+        "lat": 27.1752554,
+        "lng": 78.0098161
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-agra",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "46",
+      "name": "Global Pizza Party Ahmedabad",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ahmedabad",
+        "country": "India",
+        "lat": 23.0215374,
+        "lng": 72.5800568
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ahmedabad",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Global Pizza Party Ahmednagar",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ahmednagar",
+        "country": "India",
+        "lat": 19.1627725,
+        "lng": 74.8580243
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ahmednagar-66",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Global Pizza Party Aizawl",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Aizawl",
+        "country": "India",
+        "lat": 23.7433532,
+        "lng": 92.7382756
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-aizawl-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Global Pizza Party Aklan",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Aklan",
+        "country": "Philippines",
+        "lat": 11.6297894,
+        "lng": 122.2481177
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-aklan",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "50",
+      "name": "Global Pizza Party Akure",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Akure",
+        "country": "Nigeria",
+        "lat": 7.2525595,
+        "lng": 5.1932647
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-akure",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "51",
+      "name": "Global Pizza Party Akwa Ibom",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.9906379,
+        "lng": 7.7966205
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-akwa-ibom",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "52",
+      "name": "Global Pizza Party Alexandria",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-alexandria",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "53",
+      "name": "Global Pizza Party Aligarh",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Aligarh",
+        "country": "India",
+        "lat": 27.8761073,
+        "lng": 78.1358153
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-aligarh-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "54",
+      "name": "Global Pizza Party Ambala",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ambala",
+        "country": "India",
+        "lat": 30.3843674,
+        "lng": 76.770421
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ambala",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "55",
+      "name": "Global Pizza Party Amritsar",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Amritsar",
+        "country": "India",
+        "lat": 31.6356659,
+        "lng": 74.8787496
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-amritsar-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "56",
+      "name": "Global Pizza Party Amsterdam",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-amsterdam-12",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "57",
+      "name": "Global Pizza Party Anambra",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.2183136,
+        "lng": 6.9531842
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-anambra-2025",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "58",
+      "name": "Global Pizza Party Antwerp",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Antwerp",
+        "country": "Belgium",
+        "lat": 51.2211097,
+        "lng": 4.3997081
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-antwerp",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "59",
+      "name": "Global Pizza Party Arua",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Arua",
+        "country": "Uganda",
+        "lat": 3.0014096,
+        "lng": 31.0093527
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-arua",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Global Pizza Party Arusha",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.3696827,
+        "lng": 36.6880794
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-arusha-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "61",
+      "name": "Global Pizza Party Asaba",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Asaba",
+        "country": "Nigeria",
+        "lat": 6.1858825,
+        "lng": 6.7297071
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-asaba-11",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "63",
+      "name": "Global Pizza Party Astana",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Astana",
+        "country": "Kazakhstan",
+        "lat": 51.1282205,
+        "lng": 71.4306682
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-astana-4",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "72",
+      "name": "Global Pizza Party Bangalore",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bangalore",
+        "country": "India",
+        "lat": 12.9881567,
+        "lng": 77.6226
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bangalore",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "73",
+      "name": "Global Pizza Party Bangkok",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bangkok",
+        "country": "Thailand",
+        "lat": 13.7524938,
+        "lng": 100.4935089
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bangkok-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "74",
+      "name": "Global Pizza Party Barcelona",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-barcelona-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "75",
+      "name": "Global Pizza Party Belize City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Belize City",
+        "country": "Belize",
+        "lat": 17.5002768,
+        "lng": -88.1988737
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-belize-city-10",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "76",
+      "name": "Global Pizza Party Belo Horizonte",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.9227318,
+        "lng": -43.9450948
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-belo-horizonte-br-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "77",
+      "name": "Global Pizza Party Bhilai",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bhilai",
+        "country": "India",
+        "lat": 21.2120677,
+        "lng": 81.3732849
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bhilai",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "78",
+      "name": "Global Pizza Party Bhopal",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bhopal",
+        "country": "India",
+        "lat": 23.2584857,
+        "lng": 77.401989
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bhopal",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "82",
+      "name": "Global Pizza Party Bordeaux",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bordeaux",
+        "country": "France",
+        "lat": 44.841225,
+        "lng": -0.5800364
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bordeaux-5",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "86",
+      "name": "Global Pizza Party Brasilia",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Brasilia",
+        "country": "Brazil",
+        "lat": -10.3333333,
+        "lng": -53.2
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-brasilia",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "87",
+      "name": "Global Pizza Party Bratislava",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "lat": 48.1516988,
+        "lng": 17.1093063
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bratislava",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "88",
+      "name": "Global Pizza Party Brisbane",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Brisbane",
+        "country": "Australia",
+        "lat": -27.4689623,
+        "lng": 153.0235009
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-brisbane-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "89",
+      "name": "Global Pizza Party Brno",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Brno",
+        "country": "Czech Republic",
+        "lat": 49.1922443,
+        "lng": 16.6113382
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-brno",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "90",
+      "name": "Global Pizza Party Brussels",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Brussels",
+        "country": "Belgium",
+        "lat": 50.8465573,
+        "lng": 4.351697
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-brussels-7",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "91",
+      "name": "Global Pizza Party Bucharest",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bucharest",
+        "country": "Romania",
+        "lat": 44.4361414,
+        "lng": 26.1027202
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bucharest",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "92",
+      "name": "Global Pizza Party Budapest",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Budapest",
+        "country": "Hungary",
+        "lat": 47.4813896,
+        "lng": 19.1460941
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-budapest",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "94",
+      "name": "Global Pizza Party Buffalo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Buffalo",
+        "country": "USA",
+        "lat": 42.8867166,
+        "lng": -78.8783922
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-buffalo",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "95",
+      "name": "Global Pizza Party Bulawayo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bulawayo",
+        "country": "Zimbabwe",
+        "lat": -20.1053948,
+        "lng": 28.5426856
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bulawayo-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "96",
+      "name": "Global Pizza Party Butwal",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Butwal",
+        "country": "Nepal",
+        "lat": 27.7003986,
+        "lng": 83.4657667
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-butwal",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "97",
+      "name": "Global Pizza Party B\u00fazios",
+      "date": "2025-05-22",
+      "location": {
+        "city": "B\u00fazios",
+        "country": "Brazil",
+        "lat": -22.7597805,
+        "lng": -41.8875267
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-buzios-brazil",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "98",
+      "name": "Global Pizza Party Pune",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Pune",
+        "country": "India",
+        "lat": 18.5213738,
+        "lng": 73.8545071
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-by-pizza-dao-pune-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "99",
+      "name": "Global Pizza Party Cairo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-cairo",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "100",
+      "name": "Global Pizza Party Calabar",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Calabar",
+        "country": "Nigeria",
+        "lat": 4.9795999,
+        "lng": 8.3373597
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-calabar",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "101",
+      "name": "Global Pizza Party Calavi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Calavi",
+        "country": "Benin",
+        "lat": 6.4538637,
+        "lng": 2.354245
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-calavi",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "102",
+      "name": "Global Pizza Party Calgary",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Calgary",
+        "country": "Canada Alberta",
+        "lat": 51.0676134,
+        "lng": -114.0509216
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-calgary",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "Global Pizza Party Cali",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cali",
+        "country": "Colombia",
+        "lat": 3.4519988,
+        "lng": -76.5325259
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-cali ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Global Pizza Party Campinas",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Campinas",
+        "country": "Brazil",
+        "lat": -22.9056391,
+        "lng": -47.059564
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-campinas",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "105",
+      "name": "Global Pizza Party Cannes",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cannes",
+        "country": "France",
+        "lat": 43.5515198,
+        "lng": 7.0134418
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-cannes",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "106",
+      "name": "Global Pizza Party Cape Town",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.9288301,
+        "lng": 18.4172197
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-cape-town-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "107",
+      "name": "Global Pizza Party Caracas",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Caracas",
+        "country": "Venezuela",
+        "lat": 10.5060934,
+        "lng": -66.9146008
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-caracas-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "108",
+      "name": "Global Pizza Party Cartagena de Indias",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cartagena de Indias",
+        "country": "Colombia",
+        "lat": 10.4265566,
+        "lng": -75.5441671
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-cartagena ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "110",
+      "name": "Global Pizza Party Chandigarh",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Chandigarh",
+        "country": "India",
+        "lat": 30.7334421,
+        "lng": 76.7797143
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-chandigarh-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "112",
+      "name": "Global Pizza Party Chengdu",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Chengdu",
+        "country": "China",
+        "lat": 30.6598628,
+        "lng": 104.0633717
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-chengdu",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "113",
+      "name": "Global Pizza Party Chennai",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Chennai",
+        "country": "India",
+        "lat": 13.0836939,
+        "lng": 80.270186
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-chennai",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "114",
+      "name": "Global Pizza Party Chiang Mai",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Chiang Mai",
+        "country": "Thailand",
+        "lat": 18.7882778,
+        "lng": 98.9858802
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-chiang-mai-city",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "116",
+      "name": "Global Pizza Party Christchurch",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Christchurch",
+        "country": "New Zealand",
+        "lat": -43.530955,
+        "lng": 172.6364343
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-christchurch",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "118",
+      "name": "Global Pizza Party Guatemala City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Guatemala City",
+        "country": "Guatemala",
+        "lat": 14.6416142,
+        "lng": -90.5132836
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ciudad-de-guatemala  ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "120",
+      "name": "Global Pizza Party Cochabamba",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cochabamba",
+        "country": "Bolivia",
+        "lat": -17.4012458,
+        "lng": -66.1675681
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-cochabamba-2025-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Global Pizza Party Coimbatore",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Coimbatore",
+        "country": "India",
+        "lat": 11.0018115,
+        "lng": 76.9628425
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-coimbatore",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "122",
+      "name": "Global Pizza Party Colombo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Colombo",
+        "country": "Sri Lanka",
+        "lat": 6.9388614,
+        "lng": 79.8542005
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-colombo",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "124",
+      "name": "Global Pizza Party C\u00f3rdoba",
+      "date": "2025-05-22",
+      "location": {
+        "city": "C\u00f3rdoba",
+        "country": "Argentina",
+        "lat": -31.4166867,
+        "lng": -64.1834193
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-crdoba-10",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "125",
+      "name": "Global Pizza Party Cuenca",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cuenca",
+        "country": "Ecuador",
+        "lat": -2.8974072,
+        "lng": -79.0041726
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-cuenca-2025-3 ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "126",
+      "name": "Global Pizza Party Culiac\u00e1n",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Culiac\u00e1n",
+        "country": "Mexico",
+        "lat": 24.7978965,
+        "lng": -107.393395
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-culiacn",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "127",
+      "name": "Global Pizza Party Curitiba",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Curitiba",
+        "country": "Brazil",
+        "lat": -25.4295963,
+        "lng": -49.2712724
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-curitiba",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "128",
+      "name": "Global Pizza Party Cuzco",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cuzco",
+        "country": "Peru",
+        "lat": -13.5169542,
+        "lng": -71.9792712
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-cusco-5",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "129",
+      "name": "Global Pizza Party Da Nang",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Da Nang",
+        "country": "Vietnam",
+        "lat": 16.068,
+        "lng": 108.212
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-da-nang-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "130",
+      "name": "Global Pizza Party Dali",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Dali",
+        "country": "China",
+        "lat": 25.6074778,
+        "lng": 100.2651597
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-dali",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "132",
+      "name": "Global Pizza Party Dehradun",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Dehradun",
+        "country": "India",
+        "lat": 30.3255646,
+        "lng": 78.0436813
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-dehradun-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "133",
+      "name": "Global Pizza Party Warri",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Warri",
+        "country": "Nigeria",
+        "lat": 5.5186186,
+        "lng": 5.7480196
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-delta",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "136",
+      "name": "Global Pizza Party Diani",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Diani",
+        "country": "Kenya",
+        "lat": -4.3124919,
+        "lng": 39.5793598
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-diani",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "137",
+      "name": "Global Pizza Party Doha",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.2856329,
+        "lng": 51.5264162
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-doha",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "138",
+      "name": "Global Pizza Party Dusseldorf",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Dusseldorf",
+        "country": "Germany",
+        "lat": 51.2254018,
+        "lng": 6.7763137
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-dsseldorf",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "139",
+      "name": "Global Pizza Party Dubai",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Dubai",
+        "country": "UAE",
+        "lat": 25.0742823,
+        "lng": 55.1885387
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-dubai-1/",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "140",
+      "name": "Global Pizza Party Durban",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Durban",
+        "country": "South Africa",
+        "lat": -29.861825,
+        "lng": 31.009909
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-durban-south-africa",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "142",
+      "name": "Global Pizza Party Ebonyi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1996918,
+        "lng": 8.0348906
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ebonyi",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "143",
+      "name": "Global Pizza Party El Hatillo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "El Hatillo",
+        "country": "Venezuela",
+        "lat": 10.4245977,
+        "lng": -66.8260652
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-el-hatillo",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "144",
+      "name": "Global Pizza Party Entebbe",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Entebbe",
+        "country": "Uganda",
+        "lat": 0.0611715,
+        "lng": 32.4698564
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-entebbe-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "145",
+      "name": "Global Pizza Party Enugu City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Enugu City",
+        "country": "Nigeria",
+        "lat": 6.4499833,
+        "lng": 7.5000007
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-enugu-2025",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "146",
+      "name": "Global Pizza Party Faridabad",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Faridabad",
+        "country": "India",
+        "lat": 28.4031478,
+        "lng": 77.3105561
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-faridabad-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "147",
+      "name": "Global Pizza Party Faryab",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Faryab",
+        "country": "Afghanistan",
+        "lat": 35.9261784,
+        "lng": 64.6237758
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-faryab-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "148",
+      "name": "Global Pizza Party Florianopolis",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Florianopolis",
+        "country": "Brazil",
+        "lat": -27.5973002,
+        "lng": -48.5496098
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-floripa",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "150",
+      "name": "Global Pizza Party Fortaleza",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Fortaleza",
+        "country": "Brazil",
+        "lat": -3.7304512,
+        "lng": -38.5217989
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-fortaleza-br",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "151",
+      "name": "Global Pizza Party Gaborone",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Gaborone",
+        "country": "Botswana",
+        "lat": -24.6581357,
+        "lng": 25.9088474
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-gaborone",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "152",
+      "name": "Global Pizza Party Galle",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Galle",
+        "country": "Sri Lanka",
+        "lat": 6.0328139,
+        "lng": 80.214955
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-galle-17",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "153",
+      "name": "Global Pizza Party Gandhinagar",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Gandhinagar",
+        "country": "India",
+        "lat": 23.2232877,
+        "lng": 72.6492267
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-gandhinagar-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "154",
+      "name": "Global Pizza Party Gangtok",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Gangtok",
+        "country": "India",
+        "lat": 27.329046,
+        "lng": 88.6122673
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-gangtok-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "155",
+      "name": "Global Pizza Party General Santos",
+      "date": "2025-05-22",
+      "location": {
+        "city": "General Santos",
+        "country": "Philippines",
+        "lat": 6.1122217,
+        "lng": 125.1721893
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-general-santos",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "156",
+      "name": "Global Pizza Party Ghaziabad",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ghaziabad",
+        "country": "India",
+        "lat": 28.7749966,
+        "lng": 77.4586967
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ghaziabad-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "157",
+      "name": "Global Pizza Party Goa",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Goa",
+        "country": "India",
+        "lat": 15.3004543,
+        "lng": 74.0855134
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-goa",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "158",
+      "name": "Global Pizza Party Gorakhpur",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Gorakhpur",
+        "country": "India",
+        "lat": 26.6677977,
+        "lng": 83.3642334
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-gorakhpur-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "160",
+      "name": "Global Pizza Party Las Palmas de Gran Canaria",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Las Palmas de Gran Canaria",
+        "country": "Spain",
+        "lat": 28.1288694,
+        "lng": -15.4349015
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-gran-canaria-4",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "161",
+      "name": "Global Pizza Party G\u00f6teborg",
+      "date": "2025-05-22",
+      "location": {
+        "city": "G\u00f6teborg",
+        "country": "Sweden",
+        "lat": 57.7072326,
+        "lng": 11.9670171
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-gteborg",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "162",
+      "name": "Global Pizza Party Guadalajara",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Guadalajara",
+        "country": "Mexico",
+        "lat": 20.6720375,
+        "lng": -103.338396
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-guadalajara",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "163",
+      "name": "Global Pizza Party Gualeguaych\u00fa Entre R\u00edos",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Gualeguaych\u00fa Entre R\u00edos",
+        "country": "Argentina",
+        "lat": -33.0078908,
+        "lng": -58.5109859
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-gualeguaych-entre-ros",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "164",
+      "name": "Global Pizza Party Guangzhou",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Guangzhou",
+        "country": "China",
+        "lat": 23.1301964,
+        "lng": 113.2592945
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-guangzhou-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "165",
+      "name": "Global Pizza Party Guayaquil",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Guayaquil",
+        "country": "Ecuador",
+        "lat": -2.2895167,
+        "lng": -80.0983887
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-guayaquil-2025 ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "166",
+      "name": "Global Pizza Party Guaynabo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "lat": 18.3591596,
+        "lng": -66.1156802
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-guaynabo-city-4 ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "167",
+      "name": "Global Pizza Party Gurgaon",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Gurgaon",
+        "country": "India",
+        "lat": 28.4646148,
+        "lng": 77.0299194
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-gurgaon-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "168",
+      "name": "Global Pizza Party Guwahati",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Guwahati",
+        "country": "India",
+        "lat": 26.1805978,
+        "lng": 91.753943
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-guwahati-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "169",
+      "name": "Global Pizza Party Gwalior",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Gwalior",
+        "country": "India",
+        "lat": 26.2037247,
+        "lng": 78.1573628
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-gwalior",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "170",
+      "name": "Global Pizza Party Gyumri",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Gyumri",
+        "country": "Armenia",
+        "lat": 40.7852085,
+        "lng": 43.8416095
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-gyumri-8",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "175",
+      "name": "Global Pizza Party Helsinki",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Helsinki",
+        "country": "Finland",
+        "lat": 60.1674881,
+        "lng": 24.9427473
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-helsinki-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "176",
+      "name": "Global Pizza Party Hong Kong",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Hong Kong",
+        "country": "China",
+        "lat": 22.350627,
+        "lng": 114.1849161
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-hong-kong",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "179",
+      "name": "Global Pizza Party Hue City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Hue City",
+        "country": "Vietnam",
+        "lat": 16.3940287,
+        "lng": 107.5710004
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-hue-4",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "180",
+      "name": "Global Pizza Party Hyderabad",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Hyderabad",
+        "country": "India",
+        "lat": 17.360589,
+        "lng": 78.4740613
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-hyderabad",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "181",
+      "name": "Global Pizza Party Ibadan",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ibadan",
+        "country": "Nigeria",
+        "lat": 7.3786064,
+        "lng": 3.8969928
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ibadan-17 ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "183",
+      "name": "Global Pizza Party Ilocos",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ilocos",
+        "country": "Philippines",
+        "lat": 17.2,
+        "lng": 120.5
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ilocos-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "184",
+      "name": "Global Pizza Party Imphal",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Imphal",
+        "country": "India",
+        "lat": 24.7991162,
+        "lng": 93.9364419
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-imphal-4",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "185",
+      "name": "Global Pizza Party Gotemba",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Gotemba",
+        "country": "Japan",
+        "lat": 35.308753,
+        "lng": 138.9349133
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-in-gotemba",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "186",
+      "name": "Global Pizza Party Numazu",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Numazu",
+        "country": "Japan",
+        "lat": 35.0957963,
+        "lng": 138.8633946
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-in-numazu-pizza-dao-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "187",
+      "name": "Global Pizza Party Petrozavodsk",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Petrozavodsk",
+        "country": "Russia",
+        "lat": 61.789221,
+        "lng": 34.3688041
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-in-petrozavodsk-progress-club-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "189",
+      "name": "Global Pizza Party Indore",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Indore",
+        "country": "India",
+        "lat": 22.7203616,
+        "lng": 75.8681996
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-indore-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "190",
+      "name": "Global Pizza Party Islamabad",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.6938118,
+        "lng": 73.0651511
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-islamabad-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "191",
+      "name": "Global Pizza Party Itahari",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Itahari",
+        "country": "Nepal",
+        "lat": 26.6622505,
+        "lng": 87.2748964
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-itahari",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "192",
+      "name": "Global Pizza Party Itanagar",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Itanagar",
+        "country": "India",
+        "lat": 27.0979659,
+        "lng": 93.6237291
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-itanagar-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "193",
+      "name": "Global Pizza Party Jabalpur",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Jabalpur",
+        "country": "India",
+        "lat": 23.1701522,
+        "lng": 79.9324505
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-jabalpur",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "195",
+      "name": "Global Pizza Party Jaipur",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Jaipur",
+        "country": "India",
+        "lat": 26.9154576,
+        "lng": 75.8189817
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-jaipur-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "196",
+      "name": "Global Pizza Party Jakarta",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.1754049,
+        "lng": 106.827168
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-jakarta",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "197",
+      "name": "Global Pizza Party Jalandhar",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Jalandhar",
+        "country": "India",
+        "lat": 31.2922311,
+        "lng": 75.5678878
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-jalandhar-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "198",
+      "name": "Global Pizza Party Jammu",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Jammu",
+        "country": "India",
+        "lat": 32.7185614,
+        "lng": 74.8580917
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-jammu-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "199",
+      "name": "Global Pizza Party Jamshedpur",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Jamshedpur",
+        "country": "India",
+        "lat": 22.8015194,
+        "lng": 86.2029579
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-jamshedpur-4",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "200",
+      "name": "Global Pizza Party Janakpur",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Janakpur",
+        "country": "Nepal",
+        "lat": 26.7284541,
+        "lng": 85.9249005
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-janakpur",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "201",
+      "name": "Global Pizza Party Jhansi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Jhansi",
+        "country": "India",
+        "lat": 25.529855,
+        "lng": 78.6527802
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-jhansi-4",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "202",
+      "name": "Global Pizza Party Jinja",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Jinja",
+        "country": "Uganda",
+        "lat": 0.5751567,
+        "lng": 33.2805299
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-jinja",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "204",
+      "name": "Global Pizza Party Kabul",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kabul",
+        "country": "Afghanistan",
+        "lat": 34.5266431,
+        "lng": 69.1849082
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kabul",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "205",
+      "name": "Global Pizza Party Kaduna",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kaduna",
+        "country": "Nigeria",
+        "lat": 10.5182899,
+        "lng": 7.4359863
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kaduna",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "206",
+      "name": "Global Pizza Party Kandy",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kandy",
+        "country": "Sri Lanka",
+        "lat": 7.2931208,
+        "lng": 80.6350358
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kandy-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "207",
+      "name": "Global Pizza Party Kanpur",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kanpur",
+        "country": "India",
+        "lat": 26.4609135,
+        "lng": 80.3217588
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kanpur",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "209",
+      "name": "Global Pizza Party Karachi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Karachi",
+        "country": "Pakistan",
+        "lat": 24.8546842,
+        "lng": 67.0207055
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-karachi-2025-9",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "210",
+      "name": "Global Pizza Party Kathmandu",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.708317,
+        "lng": 85.3205817
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kathmandu",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "211",
+      "name": "Global Pizza Party Kelowna",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kelowna",
+        "country": "Canada",
+        "lat": 49.8879177,
+        "lng": -119.495902
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kelowna",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "212",
+      "name": "Global Pizza Party Kigali",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.8859597,
+        "lng": 30.1296751
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kigali-2025-4",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "213",
+      "name": "Global Pizza Party Kilifi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kilifi",
+        "country": "Kenya",
+        "lat": -3.1507392,
+        "lng": 39.6750716
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kilifi",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "214",
+      "name": "Global Pizza Party Kisumu",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kisumu",
+        "country": "Kenya",
+        "lat": -0.1029109,
+        "lng": 34.7541761
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kisumu-city-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "215",
+      "name": "Global Pizza Party Kitwe",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kitwe",
+        "country": "Zambia",
+        "lat": -12.8203689,
+        "lng": 28.2155973
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kitwe-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "216",
+      "name": "Global Pizza Party Kochi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kochi",
+        "country": "India",
+        "lat": 9.9679032,
+        "lng": 76.2444378
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kochi-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "217",
+      "name": "Global Pizza Party Koh Phangan",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Koh Phangan",
+        "country": "Thailand",
+        "lat": 9.7349503,
+        "lng": 100.0305711
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-koh-phangan-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "218",
+      "name": "Global Pizza Party Kohima",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kohima",
+        "country": "India",
+        "lat": 25.6618755,
+        "lng": 94.1019156
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kohima-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "219",
+      "name": "Global Pizza Party Kolkata",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kolkata",
+        "country": "India",
+        "lat": 22.5726459,
+        "lng": 88.3638953
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kolkata-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "220",
+      "name": "Global Pizza Party Kollam",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kollam",
+        "country": "India",
+        "lat": 8.8870815,
+        "lng": 76.5907017
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kollam-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "221",
+      "name": "Global Pizza Party Kota",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kota",
+        "country": "India",
+        "lat": 25.1737019,
+        "lng": 75.8574194
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kota-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "222",
+      "name": "Global Pizza Party Kozhikode",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kozhikode",
+        "country": "India",
+        "lat": 11.2450558,
+        "lng": 75.7754716
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kozhikode-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "223",
+      "name": "Global Pizza Party Kwara",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kwara",
+        "country": "Nigeria",
+        "lat": 8.8367891,
+        "lng": 4.6688487
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kwara-city-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "224",
+      "name": "Global Pizza Party Kyiv",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "lat": 50.4500336,
+        "lng": 30.5241361
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kyiv",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "225",
+      "name": "Global Pizza Party La Paz",
+      "date": "2025-05-22",
+      "location": {
+        "city": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.4955455,
+        "lng": -68.1336229
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-la-paz",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "226",
+      "name": "Global Pizza Party La Plata",
+      "date": "2025-05-22",
+      "location": {
+        "city": "La Plata",
+        "country": "Argentina",
+        "lat": -34.9206797,
+        "lng": -57.9537638
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-la-plata-2025",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "227",
+      "name": "Global Pizza Party Laguna",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Laguna",
+        "country": "Philippines",
+        "lat": 14.1696476,
+        "lng": 121.3336526
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-laguna",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "228",
+      "name": "Global Pizza Party Lamu",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Lamu",
+        "country": "Kenya",
+        "lat": -2.2675396,
+        "lng": 40.9010641
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-lamu-5",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "229",
+      "name": "Global Pizza Party Las Pinas",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Las Pinas",
+        "country": "Philippines",
+        "lat": 14.4809012,
+        "lng": 120.9817861
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-las-pinas",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "230",
+      "name": "Global Pizza Party Le\u00f3n",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Le\u00f3n",
+        "country": "Nicaragua",
+        "lat": 12.4348568,
+        "lng": -86.8788302
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-len-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "231",
+      "name": "Global Pizza Party Lima",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Lima",
+        "country": "Peru",
+        "lat": -12.0621065,
+        "lng": -77.0365256
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-lima",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "232",
+      "name": "Global Pizza Party Limassol",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Limassol",
+        "country": "Cyprus",
+        "lat": 34.6852901,
+        "lng": 33.0332657
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-limassol",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "233",
+      "name": "Global Pizza Party Lisbon",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Lisbon",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-lisbon-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "234",
+      "name": "Global Pizza Party Lokoja City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Lokoja City",
+        "country": "Nigeria",
+        "lat": 7.8023397,
+        "lng": 6.7430005
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-lokoja-city-25",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "235",
+      "name": "Global Pizza Party Lom\u00e9",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Lom\u00e9",
+        "country": "Togo",
+        "lat": 6.130419,
+        "lng": 1.215829
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-lome",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "236",
+      "name": "Global Pizza Party Kara",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kara",
+        "country": "Togo",
+        "lat": 9.541111,
+        "lng": 0.7876018
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-lome-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "237",
+      "name": "Global Pizza Party London",
+      "date": "2025-05-22",
+      "location": {
         "city": "London",
-        "country": "United Kingdom"
+        "country": "United Kingdom",
+        "lat": 51.4893335,
+        "lng": -0.1440551
       },
-      "link": "https://lu.ma/Encode-London",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-london",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     },
     {
-      "id": 40,
-      "name": "ETHRome Hackathon",
-      "date": "2025-10-01",
+      "id": "238",
+      "name": "Global Pizza Party Los Angeles",
+      "date": "2025-05-22",
       "location": {
-        "lat": 41.9028,
-        "lng": 12.4964,
-        "city": "Rome",
-        "country": "Italy"
+        "city": "Los Angeles",
+        "country": "USA CA",
+        "lat": 34.1393568,
+        "lng": -118.7104745
       },
-      "link": "https://ethrome.org",
-      "logo": null,
-      "short_description": "Short description coming soon.",
-      "tags": ["Conference", "Free", "Volunteership", "Community Hub"]
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-los-angeles-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "239",
+      "name": "Global Pizza Party Lucknow",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Lucknow",
+        "country": "India",
+        "lat": 26.8381,
+        "lng": 80.9346001
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-lucknow",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "240",
+      "name": "Global Pizza Party Ludhiana",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ludhiana",
+        "country": "India",
+        "lat": 30.9090157,
+        "lng": 75.851601
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ludhiana-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "241",
+      "name": "Global Pizza Party Lusaka",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.4163395,
+        "lng": 28.2818414
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-lusaka-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "242",
+      "name": "Global Pizza Party Lviv",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Lviv",
+        "country": "Ukraine",
+        "lat": 49.841952,
+        "lng": 24.0315921
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-lviv",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "243",
+      "name": "Global Pizza Party Maca\u00e9",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Maca\u00e9",
+        "country": "Brazil",
+        "lat": -22.2828305,
+        "lng": -41.9649091
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-maca-br-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "244",
+      "name": "Global Pizza Party Madurai",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Madurai",
+        "country": "India",
+        "lat": 9.9261153,
+        "lng": 78.1140983
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-madurai-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "245",
+      "name": "Global Pizza Party M\u00e1laga",
+      "date": "2025-05-22",
+      "location": {
+        "city": "M\u00e1laga",
+        "country": "Spain",
+        "lat": 36.7213028,
+        "lng": -4.4216366
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-malaga-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "246",
+      "name": "Global Pizza Party Manchester",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "lat": 53.4794892,
+        "lng": -2.2451148
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-manchester",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "247",
+      "name": "Global Pizza Party Mangalore",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mangalore",
+        "country": "India",
+        "lat": 12.8698101,
+        "lng": 74.8430082
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mangalore-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "248",
+      "name": "Global Pizza Party Manila",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Manila",
+        "country": "Philippines",
+        "lat": 14.5904492,
+        "lng": 120.9803621
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-manila",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "249",
+      "name": "Global Pizza Party Maracaibo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Maracaibo",
+        "country": "Venezuela",
+        "lat": 10.6498095,
+        "lng": -71.6443596
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-maracaibo",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "250",
+      "name": "Global Pizza Party Mathura",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mathura",
+        "country": "India",
+        "lat": 27.4955539,
+        "lng": 77.6855554
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mathura",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "251",
+      "name": "Global Pizza Party Maullin",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Maullin",
+        "country": "Chile",
+        "lat": -41.6160139,
+        "lng": -73.5950711
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-maulln",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "252",
+      "name": "Global Pizza Party Mazar-e-Sharif",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mazar-e-Sharif",
+        "country": "Afghanistan",
+        "lat": 36.7090366,
+        "lng": 67.1114085
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mazar-e-sharif",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "254",
+      "name": "Global Pizza Party Mechelen",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mechelen",
+        "country": "Belgium",
+        "lat": 51.0281381,
+        "lng": 4.4803453
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mechelen-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "255",
+      "name": "Global Pizza Party Medellin",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Medellin",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-medellin ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "256",
+      "name": "Global Pizza Party Melbourne",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-melbourne",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "258",
+      "name": "Global Pizza Party Mendoza",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mendoza",
+        "country": "Argentina",
+        "lat": -34.787093,
+        "lng": -68.4381868
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mendoza",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "261",
+      "name": "Global Pizza Party Minna",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Minna",
+        "country": "Niger",
+        "lat": 9.6187093,
+        "lng": 6.5475752
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-minna",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "263",
+      "name": "Global Pizza Party Misiones",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Misiones",
+        "country": "Argentina",
+        "lat": -26.737224,
+        "lng": -54.4315257
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-misiones",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "264",
+      "name": "Global Pizza Party Mobile",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mobile",
+        "country": "USA AL",
+        "lat": 30.7336399,
+        "lng": -88.0432534
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mobile-alabama-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "265",
+      "name": "Global Pizza Party Mombasa",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mombasa",
+        "country": "Kenya",
+        "lat": -4.05052,
+        "lng": 39.667169
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mombasa",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "266",
+      "name": "Global Pizza Party Monaco",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7323492,
+        "lng": 7.4276832
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-monaco-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "268",
+      "name": "Global Pizza Party Montevideo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-montevideo-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "270",
+      "name": "Global Pizza Party Moscow",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Moscow",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-moscow",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "272",
+      "name": "Global Pizza Party Mumbai",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mumbai",
+        "country": "India",
+        "lat": 19.054999,
+        "lng": 72.8692035
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mumbai-city",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "274",
+      "name": "Global Pizza Party Mysore",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mysore",
+        "country": "India",
+        "lat": 12.3051828,
+        "lng": 76.6553609
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mysore",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "275",
+      "name": "Global Pizza Party Nagpur",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Nagpur",
+        "country": "India",
+        "lat": 21.1498134,
+        "lng": 79.0820556
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-nagpur-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "276",
+      "name": "Global Pizza Party Naples",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Naples",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-naples-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "277",
+      "name": "Global Pizza Party Keffi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Keffi",
+        "country": "Nigeria",
+        "lat": 8.8453176,
+        "lng": 7.876834
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-nasarawa-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "278",
+      "name": "Global Pizza Party Nashik",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Nashik",
+        "country": "India",
+        "lat": 20.0112475,
+        "lng": 73.7902364
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-nashik-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "280",
+      "name": "Global Pizza Party Natal",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Natal",
+        "country": "Brazil",
+        "lat": -5.805398,
+        "lng": -35.2080905
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-natal-br-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "281",
+      "name": "Global Pizza Party Antigua",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Antigua",
+        "country": "Antigua",
+        "lat": 17.0855891,
+        "lng": -61.7945603
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-near-antigua-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "282",
+      "name": "Global Pizza Party Neath",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Neath",
+        "country": "United Kingdom",
+        "lat": 51.6628422,
+        "lng": -3.8039117
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-neath",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "287",
+      "name": "Global Pizza Party Abuja",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Abuja",
+        "country": "Nigeria",
+        "lat": 9.0643305,
+        "lng": 7.4892974
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-nigeria-abuja-16",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "288",
+      "name": "Global Pizza Party Noida",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Noida",
+        "country": "India",
+        "lat": 28.5706333,
+        "lng": 77.3272147
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-noida",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "289",
+      "name": "Global Pizza Party Nsukka",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Nsukka",
+        "country": "Nigeria",
+        "lat": 6.8561,
+        "lng": 7.3927
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-nsukka",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "291",
+      "name": "Global Pizza Party Ojeda",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ojeda",
+        "country": "Venezuela",
+        "lat": 10.2004123,
+        "lng": -71.3100065
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ojeda-4",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "293",
+      "name": "Global Pizza Party Olomouc",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Olomouc",
+        "country": "Czech Republic",
+        "lat": 49.5940567,
+        "lng": 17.251143
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-olomouc",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "296",
+      "name": "Global Pizza Party Oslo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Oslo",
+        "country": "Norway",
+        "lat": 59.9133301,
+        "lng": 10.7389701
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-oslo-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "297",
+      "name": "Global Pizza Party Osogbo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Osogbo",
+        "country": "Nigeria",
+        "lat": 7.7583222,
+        "lng": 4.5750447
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-osogbo",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "298",
+      "name": "Global Pizza Party Ottawa",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ottawa",
+        "country": "Canada Ontario",
+        "lat": 45.4157973,
+        "lng": -75.6666449
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ottawa-2025",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "299",
+      "name": "Global Pizza Party Ouagadougou",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ouagadougou",
+        "country": "Burkina Faso",
+        "lat": 12.3681873,
+        "lng": -1.5270944
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ouagadougou-12",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "300",
+      "name": "Global Pizza Party Owerri",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Owerri",
+        "country": "Nigeria",
+        "lat": 5.489736,
+        "lng": 7.0341973
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-owerri",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "301",
+      "name": "Global Pizza Party Palermo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Palermo",
+        "country": "Italy",
+        "lat": 38.1112268,
+        "lng": 13.3524434
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-palermo",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "302",
+      "name": "Global Pizza Party Panama City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-panama-city",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "303",
+      "name": "Global Pizza Party Papeete",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Papeete",
+        "country": "Tahit\u00ed",
+        "lat": -17.5366464,
+        "lng": -149.5561694
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-papeete",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "304",
+      "name": "Global Pizza Party Paris",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8588897,
+        "lng": 2.320041
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-paris-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "305",
+      "name": "Global Pizza Party Patna",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Patna",
+        "country": "India",
+        "lat": 25.6093239,
+        "lng": 85.1235252
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-patna-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "308",
+      "name": "Global Pizza Party Phnom Penh",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Phnom Penh",
+        "country": "Cambodia",
+        "lat": 11.5730391,
+        "lng": 104.857807
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-phnom-penh",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "310",
+      "name": "Global Pizza Party Phuket",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Phuket",
+        "country": "Thailand",
+        "lat": 7.9366015,
+        "lng": 98.3529292
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-phuket",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "311",
+      "name": "Global Pizza Party Piura",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Piura",
+        "country": "Peru",
+        "lat": -5.0,
+        "lng": -80.333333
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-piura",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "314",
+      "name": "Global Pizza Party Portoviejo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Portoviejo",
+        "country": "Ecuador",
+        "lat": -1.05282,
+        "lng": -80.4534134
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-portoviejo",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "315",
+      "name": "Global Pizza Party Prayagraj",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Prayagraj",
+        "country": "India",
+        "lat": 25.4381302,
+        "lng": 81.8338005
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-prayagraj",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "316",
+      "name": "Global Pizza Party Prilep",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Prilep",
+        "country": "Macedonia",
+        "lat": 41.3444984,
+        "lng": 21.5527115
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-prilep",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "318",
+      "name": "Global Pizza Party Quezon",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Quezon",
+        "country": "Philippines",
+        "lat": 14.6510546,
+        "lng": 121.0486254
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-quezon",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "319",
+      "name": "Global Pizza Party Quito",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Quito",
+        "country": "Ecuador",
+        "lat": -0.2201641,
+        "lng": -78.5123274
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-quito-2025 ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "320",
+      "name": "Global Pizza Party Raipur",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Raipur",
+        "country": "India",
+        "lat": 21.2380912,
+        "lng": 81.6336993
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-raipur-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "321",
+      "name": "Global Pizza Party Rajkot",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Rajkot",
+        "country": "India",
+        "lat": 22.3053263,
+        "lng": 70.8028377
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-rajkot",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "322",
+      "name": "Global Pizza Party Ranchi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ranchi",
+        "country": "India",
+        "lat": 23.3700501,
+        "lng": 85.3250387
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ranchi-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "323",
+      "name": "Global Pizza Party Reading",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Reading",
+        "country": "United Kingdom",
+        "lat": 51.4514953,
+        "lng": -0.9836342
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-reading",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "324",
+      "name": "Global Pizza Party Rio Claro",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Rio Claro",
+        "country": "Brazil",
+        "lat": -22.4100108,
+        "lng": -47.5603933
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-rio-claro-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "325",
+      "name": "Global Pizza Party Rio de Janeiro",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-rio-crypto-hub",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "326",
+      "name": "Global Pizza Party Rivera",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Rivera",
+        "country": "Uruguay",
+        "lat": -30.900058,
+        "lng": -55.5408151
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-rivera",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "327",
+      "name": "Global Pizza Party Roorkee",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Roorkee",
+        "country": "India",
+        "lat": 29.8693496,
+        "lng": 77.8902124
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-roorkee-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "328",
+      "name": "Global Pizza Party Rosario",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Rosario",
+        "country": "Argentina",
+        "lat": -32.9593609,
+        "lng": -60.6617024
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-rosario-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "329",
+      "name": "Global Pizza Party Rourkela",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Rourkela",
+        "country": "India",
+        "lat": 22.2309255,
+        "lng": 84.8678705
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-rourkela",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "330",
+      "name": "Global Pizza Party Salam\u00e1",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Salam\u00e1",
+        "country": "Guatemala",
+        "lat": 15.1021016,
+        "lng": -90.3145505
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-salam ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "331",
+      "name": "Global Pizza Party San Carlos",
+      "date": "2025-05-22",
+      "location": {
+        "city": "San Carlos",
+        "country": "Philippines",
+        "lat": 15.926773,
+        "lng": 120.3475584
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-san-carlos-city",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "333",
+      "name": "Global Pizza Party San Juan",
+      "date": "2025-05-22",
+      "location": {
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "lat": 18.384239,
+        "lng": -66.05344
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-san-juan",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "335",
+      "name": "Global Pizza Party San Salvador",
+      "date": "2025-05-22",
+      "location": {
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "lat": 13.6989939,
+        "lng": -89.1914249
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-san-salvador-4/",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "337",
+      "name": "Global Pizza Party Saskatoon",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Saskatoon",
+        "country": "Canada Saskatchewan",
+        "lat": 52.1178019,
+        "lng": -106.6732512
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-saskatoon-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "339",
+      "name": "Global Pizza Party Seoul",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Seoul",
+        "country": "Korea",
+        "lat": 37.5666791,
+        "lng": 126.9782914
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-seoul-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "340",
+      "name": "Global Pizza Party Shahjahanpur",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Shahjahanpur",
+        "country": "India",
+        "lat": 27.9128583,
+        "lng": 79.7476254
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-shahjahanpur",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "341",
+      "name": "Global Pizza Party Shanghai",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "lat": 31.2312707,
+        "lng": 121.4700152
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-shanghai-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "342",
+      "name": "Global Pizza Party Sharjah",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Sharjah",
+        "country": "UAE",
+        "lat": 25.2311534,
+        "lng": 54.2190083
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-sharjah-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "343",
+      "name": "Global Pizza Party Sheberghan",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Sheberghan",
+        "country": "Afghanistan",
+        "lat": 36.5816654,
+        "lng": 65.7274006
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-sheberghan",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "344",
+      "name": "Global Pizza Party Shillong",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Shillong",
+        "country": "India",
+        "lat": 25.5760446,
+        "lng": 91.8825282
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-shillong",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "346",
+      "name": "Global Pizza Party Singapore",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Singapore",
+        "country": "Singapore",
+        "lat": 1.357107,
+        "lng": 103.8194992
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-singapore-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "347",
+      "name": "Global Pizza Party Sao Paulo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Sao Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-so-paulo",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "348",
+      "name": "Global Pizza Party Sofia",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Sofia",
+        "country": "Bulgaria",
+        "lat": 42.6977028,
+        "lng": 23.3217359
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-sofia-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "350",
+      "name": "Global Pizza Party Split",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Split",
+        "country": "Croatia",
+        "lat": 43.5116383,
+        "lng": 16.4399659
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-split-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "351",
+      "name": "Global Pizza Party Saint Petersburg",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Saint Petersburg",
+        "country": "Russia",
+        "lat": 59.9606739,
+        "lng": 30.1586551
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-st-petersburg",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "352",
+      "name": "Global Pizza Party Stockholm",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.3251172,
+        "lng": 18.0710935
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-stockholm-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "353",
+      "name": "Global Pizza Party Surat",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Surat",
+        "country": "India",
+        "lat": 21.2094892,
+        "lng": 72.8317058
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-surat-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "354",
+      "name": "Global Pizza Party Taipei",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Taipei",
+        "country": "Taiwan",
+        "lat": 25.0375198,
+        "lng": 121.5636796
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-taipei",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "355",
+      "name": "Global Pizza Party Tamarindo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tamarindo",
+        "country": "Costa Rica",
+        "lat": 10.2984121,
+        "lng": -85.8399505
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-tamarindo ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "356",
+      "name": "Global Pizza Party Tatu",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tatu",
+        "country": "Kenya",
+        "lat": -1.1508144,
+        "lng": 36.9010616
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-tatu-city",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "357",
+      "name": "Global Pizza Party Tegucigalpa",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tegucigalpa",
+        "country": "Honduras",
+        "lat": 14.1057433,
+        "lng": -87.2040052
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-tgu",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "358",
+      "name": "Global Pizza Party Thiruvananthapuram",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Thiruvananthapuram",
+        "country": "India",
+        "lat": 8.4882267,
+        "lng": 76.947551
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-thiruvananthapuram",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "359",
+      "name": "Global Pizza Party Thrissur",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Thrissur",
+        "country": "India",
+        "lat": 10.5270099,
+        "lng": 76.214621
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-thrissur-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "360",
+      "name": "Global Pizza Party Tirana",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tirana",
+        "country": "Albania",
+        "lat": 41.3281482,
+        "lng": 19.8184435
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-tirana-4",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "361",
+      "name": "Global Pizza Party Tokyo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tokyo",
+        "country": "Japan",
+        "lat": 35.6768601,
+        "lng": 139.7638947
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-tokyo",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "362",
+      "name": "Global Pizza Party Tomas Morato",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tomas Morato",
+        "country": "Philippines",
+        "lat": 14.6287146,
+        "lng": 121.0343587
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-tomas-morato",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "363",
+      "name": "Global Pizza Party Trujillo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Trujillo",
+        "country": "Peru",
+        "lat": -8.1116778,
+        "lng": -79.0287742
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-trujillo-6",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "366",
+      "name": "Global Pizza Party Tulum",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tulum",
+        "country": "Mexico",
+        "lat": 20.429647,
+        "lng": -87.6529306
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-tulum-1 ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "367",
+      "name": "Global Pizza Party Tunis",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tunis",
+        "country": "Tunisia",
+        "lat": 36.8002068,
+        "lng": 10.1857757
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-tunis",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "368",
+      "name": "Global Pizza Party Udaipur",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Udaipur",
+        "country": "India",
+        "lat": 24.578721,
+        "lng": 73.6862571
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-udaipur-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "369",
+      "name": "Global Pizza Party Vadodara",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Vadodara",
+        "country": "India",
+        "lat": 22.2973142,
+        "lng": 73.1942567
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-vadodra",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "370",
+      "name": "Global Pizza Party Valencia",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Valencia",
+        "country": "Venezuela",
+        "lat": 10.170026,
+        "lng": -68.0003987
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-valencia-6",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "371",
+      "name": "Global Pizza Party Isla Margarita",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Isla Margarita",
+        "country": "Venezuela",
+        "lat": 11.0205596,
+        "lng": -63.9073984
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-valencia-isla-margarita-venezuela",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "372",
+      "name": "Global Pizza Party Valencia",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-valencia-spain-city-11",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "373",
+      "name": "Global Pizza Party Vanadzor",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Vanadzor",
+        "country": "Armenia",
+        "lat": 40.8112384,
+        "lng": 44.4851821
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-vanadzor-101",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "374",
+      "name": "Global Pizza Party Vancouver",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Vancouver",
+        "country": "Canada British Columbia",
+        "lat": 49.2709433,
+        "lng": -123.0285213
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-vancouver-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "376",
+      "name": "Global Pizza Party Veracruz",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Veracruz",
+        "country": "Mexico",
+        "lat": 19.333333,
+        "lng": -96.666667
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-veracruz",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "377",
+      "name": "Global Pizza Party Vienna",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Vienna",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-vienna",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "378",
+      "name": "Global Pizza Party Vijayawada",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Vijayawada",
+        "country": "India",
+        "lat": 16.5115306,
+        "lng": 80.6160469
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-vijaywada-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "379",
+      "name": "Global Pizza Party Vinnytsia",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Vinnytsia",
+        "country": "Ukraine",
+        "lat": 48.8990315,
+        "lng": 28.516068
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-vinnytsia",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "380",
+      "name": "Global Pizza Party Visakhapatnam",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Visakhapatnam",
+        "country": "India",
+        "lat": 17.6935526,
+        "lng": 83.2921297
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-vizag",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "381",
+      "name": "Global Pizza Party Wa",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Wa",
+        "country": "Ghana",
+        "lat": 10.0623261,
+        "lng": -2.5054273
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-wa-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "382",
+      "name": "Global Pizza Party Warsaw",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Warsaw",
+        "country": "Poland",
+        "lat": 52.2337172,
+        "lng": 21.0714322
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-warsaw-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "383",
+      "name": "Global Pizza Party Washington DC",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Washington DC",
+        "country": "USA DC",
+        "lat": 38.9298584,
+        "lng": -77.0333239
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-washington-d-c",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "384",
+      "name": "Global Pizza Party Waterloo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Waterloo",
+        "country": "Canada Ontario",
+        "lat": 43.5083745,
+        "lng": -80.5318117
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-waterloo",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "385",
+      "name": "Global Pizza Party Wayanad",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Wayanad",
+        "country": "India",
+        "lat": 11.7151291,
+        "lng": 76.1271185
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-wayanad",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "386",
+      "name": "Global Pizza Party Windhoek",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.5335601,
+        "lng": 17.0454775
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-windhoek",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "388",
+      "name": "Global Pizza Party Yangon",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Yangon",
+        "country": "Myanmar",
+        "lat": 16.7967129,
+        "lng": 96.1609916
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-yangon-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "389",
+      "name": "Global Pizza Party Yerevan",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Yerevan",
+        "country": "Armenia",
+        "lat": 40.1777112,
+        "lng": 44.5126233
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-yerevan-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "390",
+      "name": "Global Pizza Party Zagreb",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-zagreb-2025-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "391",
+      "name": "Global Pizza Party Zug",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Zug",
+        "country": "Switzerland",
+        "lat": 47.1486137,
+        "lng": 8.5539378
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-zug-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "392",
+      "name": "Global Pizza Party Haifa",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Haifa",
+        "country": "Israel",
+        "lat": 32.8191218,
+        "lng": 34.9983856
+      },
+      "event_link": "https://app.unlock-protocol.com/event/haifa-pizza-party",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "394",
+      "name": "Global Pizza Party Ijoko",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ijoko",
+        "country": "Nigeria",
+        "lat": 6.693864,
+        "lng": 3.3567618
+      },
+      "event_link": "https://app.unlock-protocol.com/event/ijoko-global-pizza-party",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "395",
+      "name": "Global Pizza Party Istanbul",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.006381,
+        "lng": 28.9758715
+      },
+      "event_link": "https://app.unlock-protocol.com/event/istanbul-global-pizza-party-2025",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "397",
+      "name": "Global Pizza Party Ho Chi Minh City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ho Chi Minh City",
+        "country": "Vietnam",
+        "lat": 10.7763897,
+        "lng": 106.7011391
+      },
+      "event_link": "https://app.unlock-protocol.com/event/offchain-saigon-pizza-dao-global-pizza-party-bitcoin-pizza-day-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "398",
+      "name": "Global Pizza Party Catania",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Catania",
+        "country": "Italy",
+        "lat": 37.5023612,
+        "lng": 15.0873718
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pineapple-and-jalapenos-is-a-good-pizza-topping",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "399",
+      "name": "Global Pizza Party Kampala",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kampala",
+        "country": "Uganda",
+        "lat": 0.3177137,
+        "lng": 32.5813539
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-dao-5th-global-pizza-party-2025-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "400",
+      "name": "Global Pizza Party Casablanca",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "lat": 33.5945144,
+        "lng": -7.6200284
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-dao-global-pizza-day-2025-casablanca",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "401",
+      "name": "Global Pizza Party Tangier",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tangier",
+        "country": "Morocco",
+        "lat": 35.7696302,
+        "lng": -5.8033522
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-dao-global-pizza-day-2025-tangier",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "402",
+      "name": "Global Pizza Party Madrid",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.4167047,
+        "lng": -3.7035825
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-dao-madrid-bitcoin-party-2025",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "403",
+      "name": "Global Pizza Party Siwan",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Siwan",
+        "country": "India",
+        "lat": 26.131008,
+        "lng": 84.3910745
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-dao-siwan-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "405",
+      "name": "Global Pizza Party Frankfurt",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-day-frankfurt-2025-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "406",
+      "name": "Global Pizza Party Rome",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Rome",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-day-rome-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "407",
+      "name": "Global Pizza Party Kuala Lumpur",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.1526589,
+        "lng": 101.7022205
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-fi-abcd-apac-blockchain-day",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "408",
+      "name": "Global Pizza Party Lahore",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Lahore",
+        "country": "Pakistan",
+        "lat": 31.5656822,
+        "lng": 74.3141829
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-party-lahore",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "409",
+      "name": "Global Pizza Party Munich",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Munich",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-party-munich-2025-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "410",
+      "name": "Global Pizza Party Puebla",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Puebla",
+        "country": "Mexico",
+        "lat": 18.833333,
+        "lng": -98.0
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-party-puebla-1 ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "413",
+      "name": "Global Pizza Party Dublin",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Dublin",
+        "country": "Ireland",
+        "lat": 53.3493795,
+        "lng": -6.2605593
+      },
+      "event_link": "https://app.unlock-protocol.com/event/proof-of-craic-pizza-party-10",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "414",
+      "name": "Global Pizza Party San Diego",
+      "date": "2025-05-22",
+      "location": {
+        "city": "San Diego",
+        "country": "USA CA",
+        "lat": 32.5426089,
+        "lng": -117.0281789
+      },
+      "event_link": "https://app.unlock-protocol.com/event/san-diego-x-pizza-dao-global-pizza-party-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "418",
+      "name": "Global Pizza Party Tel Aviv",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.0852997,
+        "lng": 34.7818064
+      },
+      "event_link": "https://app.unlock-protocol.com/event/yalla-bitcoin-pizza-party?a=1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "324",
+      "name": "Global Pizza Party Chongqing",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Chongqing",
+        "country": "China",
+        "lat": 30.05518,
+        "lng": 107.8748712
+      },
+      "event_link": "https://app.unlock-protocol.com/event/bitcoin-pizza-day-chongqing-2025",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "325",
+      "name": "Global Pizza Party Columbus",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Columbus",
+        "country": "USA OH",
+        "lat": 39.9622601,
+        "lng": -83.0007065
+      },
+      "event_link": "https://app.unlock-protocol.com/event/bitcoin-pizza-day-columbus-squad",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "326",
+      "name": "Global Pizza Party Baltimore",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Baltimore",
+        "country": "USA MD",
+        "lat": 39.2908816,
+        "lng": -76.610759
+      },
+      "event_link": "https://app.unlock-protocol.com/event/bitcoin-pizza-day-party-with-pizza-dao",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "327",
+      "name": "Global Pizza Party Sydney",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Sydney",
+        "country": "Australia",
+        "lat": -33.8698439,
+        "lng": 151.2082848
+      },
+      "event_link": "https://app.unlock-protocol.com/event/bitcoin-pizza-day-sydney",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "328",
+      "name": "Global Pizza Party Sacramento",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Sacramento",
+        "country": "USA CA",
+        "lat": 38.5810606,
+        "lng": -121.493895
+      },
+      "event_link": "https://app.unlock-protocol.com/event/bitcoin-pizza-party-sacramento",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "329",
+      "name": "Global Pizza Party Dar es Salaam",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.8160837,
+        "lng": 39.2803583
+      },
+      "event_link": "https://app.unlock-protocol.com/event/bitcoinsafari-tz-bitcoin-pizza-day-hangout-11",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "330",
+      "name": "Global Pizza Party Halifax",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Halifax",
+        "country": "Canada Nova Scotia",
+        "lat": 44.648618,
+        "lng": -63.5859487
+      },
+      "event_link": "https://app.unlock-protocol.com/event/btc-pizza-day-halifax",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "331",
+      "name": "Global Pizza Party Punta del Este",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Punta del Este",
+        "country": "Uruguay",
+        "lat": -34.9632342,
+        "lng": -54.9439981
+      },
+      "event_link": "https://app.unlock-protocol.com/event/btc-pizza-day-on-este-lugar",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "332",
+      "name": "Global Pizza Party Richmond Virginia",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Richmond Virginia",
+        "country": "USA VA",
+        "lat": 37.4963453,
+        "lng": -77.4656428
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-2025",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "333",
+      "name": "Global Pizza Party Hangzhou",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Hangzhou",
+        "country": "China",
+        "lat": 30.2489634,
+        "lng": 120.2052342
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-2025-hangzhou-city",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "334",
+      "name": "Global Pizza Party Tallinn",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tallinn",
+        "country": "Estonia",
+        "lat": 59.4372155,
+        "lng": 24.7453688
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-2025-tallinn",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "335",
+      "name": "Global Pizza Party Miami",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Miami",
+        "country": "USA FL",
+        "lat": 25.7741728,
+        "lng": -80.19362
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-33",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "336",
+      "name": "Global Pizza Party Bar Harbor",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bar Harbor",
+        "country": "USA ME",
+        "lat": 44.3876378,
+        "lng": -68.2043361
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-acadia",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "337",
+      "name": "Global Pizza Party Asheville",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Asheville",
+        "country": "USA NC",
+        "lat": 35.595363,
+        "lng": -82.5508407
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-asheville",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "338",
+      "name": "Global Pizza Party Athens",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Athens",
+        "country": "Greece",
+        "lat": 37.9755648,
+        "lng": 23.7348324
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-athens-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "339",
+      "name": "Global Pizza Party Atlanta",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Atlanta",
+        "country": "USA GA",
+        "lat": 33.7544657,
+        "lng": -84.3898151
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-atlanta-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "340",
+      "name": "Global Pizza Party Atlantic City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Atlantic City",
+        "country": "USA NJ",
+        "lat": 39.3642852,
+        "lng": -74.4229351
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-atlantic-city",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "341",
+      "name": "Global Pizza Party Auburn",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Auburn",
+        "country": "USA AL",
+        "lat": 32.6098566,
+        "lng": -85.4807825
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-auburn",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "342",
+      "name": "Global Pizza Party Austin",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Austin",
+        "country": "USA TX",
+        "lat": 30.2711286,
+        "lng": -97.7436995
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-austin",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "343",
+      "name": "Global Pizza Party Ayodhya",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Ayodhya",
+        "country": "India",
+        "lat": 26.7990707,
+        "lng": 82.2052321
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-ayodhya-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "344",
+      "name": "Global Pizza Party Salvador Bahia",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Salvador Bahia",
+        "country": "Brazil",
+        "lat": -12.9822499,
+        "lng": -38.4812772
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bahia-crypto-hub",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "345",
+      "name": "Global Pizza Party Bali",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bali",
+        "country": "Indonesia",
+        "lat": -8.2271303,
+        "lng": 115.1919203
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bali",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "346",
+      "name": "Global Pizza Party Bogota",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bogota",
+        "country": "Colombia",
+        "lat": 4.6534109,
+        "lng": -74.0836547
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bogot-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "347",
+      "name": "Global Pizza Party Boise",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Boise",
+        "country": "USA ID",
+        "lat": 43.6166163,
+        "lng": -116.200886
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-boise-idaho",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "348",
+      "name": "Global Pizza Party Boulder",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Boulder",
+        "country": "USA CO",
+        "lat": 40.0149856,
+        "lng": -105.270545
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-boulder",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "349",
+      "name": "Global Pizza Party Bowie",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bowie",
+        "country": "USA MD",
+        "lat": 38.9424464,
+        "lng": -76.7301718
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bowie",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "350",
+      "name": "Global Pizza Party Palm Beach",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Palm Beach",
+        "country": "USA FL",
+        "lat": 26.6279798,
+        "lng": -80.4494174
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-boynton-beach",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "351",
+      "name": "Global Pizza Party Buenos Aires",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6083696,
+        "lng": -58.4440583
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-buenos-aires",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "352",
+      "name": "Global Pizza Party Cedar Rapids",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cedar Rapids",
+        "country": "USA IA",
+        "lat": 41.9758872,
+        "lng": -91.6704053
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-cedar-rapids",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "353",
+      "name": "Global Pizza Party Charlotte",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Charlotte",
+        "country": "USA NC",
+        "lat": 35.2272086,
+        "lng": -80.8430827
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-charlotte-north-carolina-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "354",
+      "name": "Global Pizza Party Chicago",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Chicago",
+        "country": "USA IL",
+        "lat": 41.8755616,
+        "lng": -87.6244212
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-chicago",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "355",
+      "name": "Global Pizza Party Cincinnati",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cincinnati",
+        "country": "USA OH",
+        "lat": 39.1014537,
+        "lng": -84.5124602
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-cincinnati",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "356",
+      "name": "Global Pizza Party Cleveland",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Cleveland",
+        "country": "USA OH",
+        "lat": 41.4996574,
+        "lng": -81.6936772
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-cleveland",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "357",
+      "name": "Global Pizza Party Craiova",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Craiova",
+        "country": "Romania",
+        "lat": 44.3190159,
+        "lng": 23.7965614
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-craiova-9",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "358",
+      "name": "Global Pizza Party Dallas",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Dallas",
+        "country": "USA TX",
+        "lat": 32.7762719,
+        "lng": -96.7968559
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-dallas",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "359",
+      "name": "Global Pizza Party Denver",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Denver",
+        "country": "USA CO",
+        "lat": 39.7392364,
+        "lng": -104.984862
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-denver-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "360",
+      "name": "Global Pizza Party Detroit",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Detroit",
+        "country": "USA MI",
+        "lat": 42.3315509,
+        "lng": -83.0466403
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-detroit",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "361",
+      "name": "Global Pizza Party Durham",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Durham",
+        "country": "USA NC",
+        "lat": 35.996653,
+        "lng": -78.9018053
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-durham",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "362",
+      "name": "Global Pizza Party Fort Lauderdale",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Fort Lauderdale",
+        "country": "USA FL",
+        "lat": 26.1223084,
+        "lng": -80.1433786
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-fort-lauderdale",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "363",
+      "name": "Global Pizza Party Goshen",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Goshen",
+        "country": "USA IN",
+        "lat": 41.5850394,
+        "lng": -85.8344491
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-goshen",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "364",
+      "name": "Global Pizza Party Hamburg",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.550341,
+        "lng": 10.000654
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-hamburg-7",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "365",
+      "name": "Global Pizza Party Hanoi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Hanoi",
+        "country": "Vietnam",
+        "lat": 21.0283334,
+        "lng": 105.854041
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-hanoi",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "366",
+      "name": "Global Pizza Party Harare",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Harare",
+        "country": "Zimbabwe",
+        "lat": -17.8567035,
+        "lng": 31.0601584
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-harare",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "367",
+      "name": "Global Pizza Party Hardoi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Hardoi",
+        "country": "India",
+        "lat": 27.3369978,
+        "lng": 80.0998232
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-hardoi",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "368",
+      "name": "Global Pizza Party Houston",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Houston",
+        "country": "USA TX",
+        "lat": 29.7589382,
+        "lng": -95.3676974
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-houston",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "369",
+      "name": "Global Pizza Party Huancayo",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Huancayo",
+        "country": "Peru",
+        "lat": -12.068098,
+        "lng": -75.2100953
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-huancayo ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "370",
+      "name": "Global Pizza Party Idaho Falls",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Idaho Falls",
+        "country": "USA ID",
+        "lat": 43.4887907,
+        "lng": -112.03628
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-idaho-falls",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "371",
+      "name": "Global Pizza Party Indianapolis",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Indianapolis",
+        "country": "USA IN",
+        "lat": 39.7683331,
+        "lng": -86.1583502
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-indianapolis",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "372",
+      "name": "Global Pizza Party Jacksonville",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Jacksonville",
+        "country": "USA FL",
+        "lat": 30.3321838,
+        "lng": -81.655651
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-jacksonville",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "373",
+      "name": "Global Pizza Party Johannesberg",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Johannesberg",
+        "country": "South Africa",
+        "lat": 56.268429,
+        "lng": 21.5244411
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-johannesburg-5",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "374",
+      "name": "Global Pizza Party Kansas City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Kansas City",
+        "country": "USA MO",
+        "lat": 39.100105,
+        "lng": -94.5781416
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-kansas-city",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "375",
+      "name": "Global Pizza Party Mbarara",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mbarara",
+        "country": "Uganda",
+        "lat": -0.4180848,
+        "lng": 30.5737374
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mbarara-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "376",
+      "name": "Global Pizza Party Memphis",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Memphis",
+        "country": "USA TN",
+        "lat": 35.1460249,
+        "lng": -90.0517638
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-memphis-3",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "377",
+      "name": "Global Pizza Party Mexico City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mexico-city-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "378",
+      "name": "Global Pizza Party Milwaukee",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Milwaukee",
+        "country": "USA WI",
+        "lat": 43.0386475,
+        "lng": -87.9090751
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-milwaukee",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "379",
+      "name": "Global Pizza Party Minneapolis",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Minneapolis",
+        "country": "USA MN",
+        "lat": 44.9772995,
+        "lng": -93.2654692
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-minneapolis-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "380",
+      "name": "Global Pizza Party Monterrey",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Monterrey",
+        "country": "Mexico",
+        "lat": 25.6802019,
+        "lng": -100.315258
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-monterrey",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "381",
+      "name": "Global Pizza Party Montgomery, AL",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Montgomery, AL",
+        "country": "USA AL",
+        "lat": 32.37742,
+        "lng": -86.3091683
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-montgomery",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "382",
+      "name": "Global Pizza Party Mt. Rainier",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mt. Rainier",
+        "country": "USA MD",
+        "lat": 38.9364848,
+        "lng": -76.9596981
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mt-rainer",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "383",
+      "name": "Global Pizza Party Mwanza",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Mwanza",
+        "country": "Tanzia",
+        "lat": -2.5196915,
+        "lng": 32.9014417
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-mwanza-37",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "384",
+      "name": "Global Pizza Party Nashville",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Nashville",
+        "country": "USA TN",
+        "lat": 36.1622767,
+        "lng": -86.7742984
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-nashville-tennessee-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "385",
+      "name": "Global Pizza Party Network State",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Network State",
+        "country": "Malaysia",
+        "lat": 41.1773972,
+        "lng": -111.9474986
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-network-school-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "386",
+      "name": "Global Pizza Party Delhi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Delhi",
+        "country": "India",
+        "lat": 28.6273928,
+        "lng": 77.1716954
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-new-delhi-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "387",
+      "name": "Global Pizza Party New Haven",
+      "date": "2025-05-22",
+      "location": {
+        "city": "New Haven",
+        "country": "USA CT",
+        "lat": 41.3082138,
+        "lng": -72.9250518
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-new-haven-2",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "388",
+      "name": "Global Pizza Party New Orleans",
+      "date": "2025-05-22",
+      "location": {
+        "city": "New Orleans",
+        "country": "USA LA",
+        "lat": 29.9759983,
+        "lng": -90.0782127
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-new-orleans",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "389",
+      "name": "Global Pizza Party Oakland",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Oakland",
+        "country": "USA CA",
+        "lat": 37.8044557,
+        "lng": -122.271356
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-oakland",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "390",
+      "name": "Global Pizza Party Oklahoma City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Oklahoma City",
+        "country": "USA OK",
+        "lat": 35.4729886,
+        "lng": -97.5170536
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-oklahoma-city",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "391",
+      "name": "Global Pizza Party Omaha",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Omaha",
+        "country": "USA NE",
+        "lat": 41.2587459,
+        "lng": -95.9383758
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-omaha-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "392",
+      "name": "Global Pizza Party Orlando",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Orlando",
+        "country": "USA FL",
+        "lat": 28.5421109,
+        "lng": -81.3790304
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-orlando",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "393",
+      "name": "Global Pizza Party Pensacola",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Pensacola",
+        "country": "USA FL",
+        "lat": 30.421309,
+        "lng": -87.2169149
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-pensacola-florida-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "394",
+      "name": "Global Pizza Party Philadelphia",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Philadelphia",
+        "country": "USA PA",
+        "lat": 39.9527237,
+        "lng": -75.1635262
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-philadelphia",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "395",
+      "name": "Global Pizza Party Phoenix",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Phoenix",
+        "country": "USA AZ",
+        "lat": 33.4484367,
+        "lng": -112.074141
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-phoenix-4",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "396",
+      "name": "Global Pizza Party Portland ME",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Portland ME",
+        "country": "USA ME",
+        "lat": 43.6634708,
+        "lng": -70.2584907
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-portland-maine",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "397",
+      "name": "Global Pizza Party Porto Alegre",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Porto Alegre",
+        "country": "Brazil",
+        "lat": -30.0324999,
+        "lng": -51.2303767
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-porto-alegre",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "398",
+      "name": "Global Pizza Party Providence",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Providence",
+        "country": "USA RI",
+        "lat": 41.8239891,
+        "lng": -71.4128343
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-providence-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "399",
+      "name": "Global Pizza Party San Francisco",
+      "date": "2025-05-22",
+      "location": {
+        "city": "San Francisco",
+        "country": "USA CA",
+        "lat": 37.7792588,
+        "lng": -122.4193286
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-san-francisco-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "400",
+      "name": "Global Pizza Party San Pedro de Sula",
+      "date": "2025-05-22",
+      "location": {
+        "city": "San Pedro de Sula",
+        "country": "Honduras",
+        "lat": 15.5186031,
+        "lng": -88.0314568
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-san-pedro-sula ",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "401",
+      "name": "Global Pizza Party Santiago",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Santiago",
+        "country": "Chile",
+        "lat": -33.4377756,
+        "lng": -70.6504502
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-santiago-5",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "402",
+      "name": "Global Pizza Party Seattle",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Seattle",
+        "country": "USA WA",
+        "lat": 47.6038321,
+        "lng": -122.330062
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-seattle",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "403",
+      "name": "Global Pizza Party Shimla",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Shimla",
+        "country": "India",
+        "lat": 31.1041526,
+        "lng": 77.1709729
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-shimla-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "404",
+      "name": "Global Pizza Party Tucson",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tucson",
+        "country": "USA AZ",
+        "lat": 32.2228765,
+        "lng": -110.974847
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-tucson-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "405",
+      "name": "Global Pizza Party Tucumcari",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Tucumcari",
+        "country": "USA NM",
+        "lat": 35.1719425,
+        "lng": -103.72504
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-tucumcari",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "406",
+      "name": "Global Pizza Party Varanasi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Varanasi",
+        "country": "India",
+        "lat": 25.3356491,
+        "lng": 83.0076292
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-varanasi-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "407",
+      "name": "Global Pizza Party Boston",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Boston",
+        "country": "USA MA",
+        "lat": 42.3554334,
+        "lng": -71.060511
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-with-boston-dao-pizza-dao-12",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "408",
+      "name": "Global Pizza Party Honolulu",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Honolulu",
+        "country": "USA HI",
+        "lat": 21.304547,
+        "lng": -157.855676
+      },
+      "event_link": "https://app.unlock-protocol.com/event/honolulu-btc-pizza-day",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "409",
+      "name": "Global Pizza Party Red River Gorge",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Red River Gorge",
+        "country": "USA KY",
+        "lat": 37.7422417,
+        "lng": -83.5752761
+      },
+      "event_link": "https://app.unlock-protocol.com/event/miguels-x-pizza-dao-global-pizza-party",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "410",
+      "name": "Global Pizza Party Shenzhen",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Shenzhen",
+        "country": "China",
+        "lat": 22.5445741,
+        "lng": 114.0545429
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-dao-x-offchain-shenzhen-mixer-6",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "411",
+      "name": "Global Pizza Party Salt Lake City",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Salt Lake City",
+        "country": "USA UT",
+        "lat": 40.7596198,
+        "lng": -111.886797
+      },
+      "event_link": "https://app.unlock-protocol.com/event/pizza-slc",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "412",
+      "name": "Global Pizza Party Portland Oregon",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Portland Oregon",
+        "country": "USA OR",
+        "lat": 45.5202471,
+        "lng": -122.674194
+      },
+      "event_link": "https://app.unlock-protocol.com/event/portlands-global-bitcoin-pizza-party-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "413",
+      "name": "Global Pizza Party Santa Barbara",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Santa Barbara",
+        "country": "USA CA",
+        "lat": 34.4221319,
+        "lng": -119.702667
+      },
+      "event_link": "https://app.unlock-protocol.com/event/santa-barbara-pizza-party-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "414",
+      "name": "Global Pizza Party Palo Alto",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Palo Alto",
+        "country": "USA CA",
+        "lat": 37.4443293,
+        "lng": -122.1598465
+      },
+      "event_link": "https://app.unlock-protocol.com/event/slices-chains-bitcoin-pizza-day-special-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "415",
+      "name": "Global Pizza Party Las Vegas",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Las Vegas",
+        "country": "USA NV",
+        "lat": 36.171697,
+        "lng": -115.1463536
+      },
+      "event_link": "https://app.unlock-protocol.com/event/vegas-global-bitcoin-pizza-day-may-22nd-at-velocity-esports",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "416",
+      "name": "Global Pizza Party Charleston",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Charleston",
+        "country": "USA SC",
+        "lat": 32.7884363,
+        "lng": -79.9399309
+      },
+      "event_link": "https://beeple-studios.xyz/event/bitcoinpizzaday/",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "417",
+      "name": "Global Pizza Party Bhubaneswar",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Bhubaneswar",
+        "country": "India",
+        "lat": 20.2602964,
+        "lng": 85.8394521
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-bhub",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "418",
+      "name": "Global Pizza Party Solukhumbu",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Solukhumbu",
+        "country": "Nepal",
+        "lat": 27.7262537,
+        "lng": 86.7812043
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-solukumbhu-1",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "419",
+      "name": "Global Pizza Party Makurdi",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Makurdi",
+        "country": "Nigeria",
+        "lat": 7.7312634,
+        "lng": 8.538425
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-35",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
+    },
+    {
+      "id": "420",
+      "name": "Global Pizza Party Belgrade",
+      "date": "2025-05-22",
+      "location": {
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.7866,
+        "lng": 20.4489
+      },
+      "event_link": "https://app.unlock-protocol.com/event/global-pizza-party-35",
+      "tags": [
+        "Bitcoin",
+        "Pizza",
+        "Community"
+      ]
     }
   ]
-} 
+}
