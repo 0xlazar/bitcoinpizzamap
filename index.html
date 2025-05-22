@@ -50,7 +50,6 @@
             animation: pulsate 2s ease-in-out infinite;
             transform-box: fill-box;
             transform-origin: center;
-            filter: drop-shadow(0 0 8px #10B981) drop-shadow(0 0 16px #10B981);
         }
 
         @keyframes float {
@@ -75,11 +74,11 @@
     </style>
 </head>
 <body class="h-screen w-screen bg-gray-50">
-    <header class="w-full py-4 bg-white shadow flex items-center relative">
+    <header class="w-full h-14 bg-white shadow flex items-center relative">
         <a href="#map" id="logo-link" class="absolute left-8 flex items-center">
             <img src="icons/logo.png" alt="Journey to DevConnect Logo" class="h-14 w-14 inline-block align-middle cursor-pointer" />
         </a>
-        <span class="mx-auto text-xl font-bold">Journey to DevConnect</span>
+        <span class="mx-auto text-xl font-bold hidden md:inline">Journey to DevConnect - Bitcoin Pizza Party Map</span>
         <button id="hamburger-menu" class="absolute right-8 flex items-center justify-center h-12 w-12 rounded hover:bg-gray-100 focus:outline-none" aria-label="Open menu">
             <svg class="w-8 h-8 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -106,11 +105,24 @@
             </button>
             <button id="view-toggle" class="bg-white text-gray-800 px-4 py-2 rounded-lg shadow-lg flex items-center gap-2 hover:bg-gray-50 transition-colors">
                 <span id="view-icon">📋</span>
-                <span id="view-text">List View</span>
+                <span id="view-text" class="hidden md:inline">List View</span>
             </button>
         </div>
         <!-- Map container -->
         <div id="map-area" class="absolute inset-0 z-0">
+            <!-- Statistics Bar -->
+            <div class="absolute top-4 left-1/2 -translate-x-1/2 z-[1000]">
+                <div class="bg-white px-4 py-3 rounded-lg shadow-lg flex flex-col gap-2">
+                    <div class="flex items-center gap-2">
+                        <span class="text-2xl">🍕</span>
+                        <span class="text-gray-700 font-medium"><span id="total-events">0</span> Events</span>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <span class="text-2xl">🌍</span>
+                        <span class="text-gray-700 font-medium"><span id="total-countries">0</span> Countries</span>
+                    </div>
+                </div>
+            </div>
             <div id="map" class="w-full h-full"></div>
             <!-- Help Button -->
             <button id="help-button" class="absolute bottom-4 left-4 bg-white p-3 rounded-full shadow-lg hover:bg-gray-50 transition-colors z-[1000] w-10 h-10 flex items-center justify-center">
